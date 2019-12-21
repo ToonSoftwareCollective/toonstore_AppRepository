@@ -11,7 +11,18 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>no</allowdeletion>
   </app>
-  <app>
+ <app>
+	<name>Domoticzboard</name>
+	<version>1.1.5</version>
+        <folder>domoticzboard</folder>
+	<description>App to control switches and scenes from Domoticz</description>
+	<author>Toonz (from the initial version by TerrorSource)</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>0</screenshots>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.99.9</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+  </app>  <app>
 	<name>Sonos sound system</name>
 	<version>1.1.5</version>
         <folder>sonos</folder>
@@ -25,7 +36,7 @@
   </app>
   <app>
 	<name>Afvalkalender</name>
-	<version>4.29</version>
+	<version>4.31</version>
         <folder>wastecollection</folder>
 	<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
 	<author>Toonz</author>
@@ -104,19 +115,6 @@
 	<skipautoupdate>no</skipautoupdate>
 	<screenshots>2</screenshots>
 	<firmwareminimum>5.0.29</firmwareminimum>
-	<firmwaremaximum>9.99.9</firmwaremaximum>
-	<allowdeletion>yes</allowdeletion>
-  </app>
-
- <app>
-	<name>Domoticzboard</name>
-	<version>1.1.4</version>
-        <folder>domoticzboard</folder>
-	<description>App to control switches and scenes from Domoticz</description>
-	<author>Toonz (from the initial version by TerrorSource)</author>
-	<skipautoupdate>no</skipautoupdate>
-	<screenshots>0</screenshots>
-	<firmwareminimum>5.0.00</firmwareminimum>
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
