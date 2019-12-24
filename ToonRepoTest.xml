@@ -11,7 +11,18 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>no</allowdeletion>
   </app>
- <app>
+  <app>
+	<name>PostNL</name>
+	<version>1.0.6</version>
+        <folder>postnl</folder>
+	<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
+	<author>Toonz</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>0</screenshots>
+	<firmwareminimum>0.0.00</firmwareminimum>
+	<firmwaremaximum>0.0.00</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+  </app><app>
 	<name>Domoticzboard</name>
 	<version>1.1.5</version>
         <folder>domoticzboard</folder>
@@ -164,18 +175,6 @@
 	<screenshots>1</screenshots>
 	<firmwareminimum>5.0.0</firmwareminimum>
 	<firmwaremaximum>9.99.9</firmwaremaximum>
-	<allowdeletion>yes</allowdeletion>
-  </app>
- <app>
-	<name>PostNL</name>
-	<version>1.0.5</version>
-        <folder>postnl</folder>
-	<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
-	<author>Toonz</author>
-	<skipautoupdate>no</skipautoupdate>
-	<screenshots>0</screenshots>
-	<firmwareminimum>0.0.00</firmwareminimum>
-	<firmwaremaximum>0.0.00</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
   <app>
