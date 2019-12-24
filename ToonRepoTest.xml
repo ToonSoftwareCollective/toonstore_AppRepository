@@ -19,8 +19,8 @@
 	<author>Toonz</author>
 	<skipautoupdate>no</skipautoupdate>
 	<screenshots>0</screenshots>
-	<firmwareminimum>0.0.00</firmwareminimum>
-	<firmwaremaximum>0.0.00</firmwaremaximum>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.9.99</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app><app>
 	<name>Domoticzboard</name>
