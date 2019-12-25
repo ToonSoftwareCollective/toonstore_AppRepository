@@ -37,7 +37,7 @@
   </app>
   <app>
 	<name>Afvalkalender</name>
-	<version>4.32</version>
+	<version>4.33</version>
         <folder>wastecollection</folder>
 	<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
 	<author>Toonz</author>
