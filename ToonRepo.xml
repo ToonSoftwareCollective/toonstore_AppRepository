@@ -13,7 +13,7 @@
   </app>
   <app>
 	<name>PostNL</name>
-	<version>1.0.6</version>
+	<version>1.0.7</version>
         <folder>postnl</folder>
 	<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
 	<author>Toonz</author>
