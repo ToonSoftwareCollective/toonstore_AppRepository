@@ -12,7 +12,7 @@
 	<allowdeletion>no</allowdeletion>
   </app> <app>
 	<name>WifiQR</name>
-	<version>1.1.1</version>
+	<version>1.2</version>
         <folder>wifiqr</folder>
 	<description>Geef gasten eenvoudig toegang tot uw Wifi netwerk via een QR code. Alleen voor firmware 5 en hoger</description>
 	<author>hvxl</author>
