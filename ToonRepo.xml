@@ -12,6 +12,18 @@
 	<allowdeletion>no</allowdeletion>
   </app>
   <app>
+	<name>WifiQR</name>
+	<version>1.2</version>
+        <folder>wifiqr</folder>
+	<description>Geef gasten eenvoudig toegang tot uw Wifi netwerk via een QR code. Alleen voor firmware 5 en hoger</description>
+	<author>hvxl</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>0</screenshots>
+	<firmwareminimum>5.0.4</firmwareminimum>
+	<firmwaremaximum>9.99.9</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+  </app>
+  <app>
 	<name>PostNL</name>
 	<version>1.0.7</version>
         <folder>postnl</folder>
@@ -92,18 +104,6 @@
 	<skipautoupdate>no</skipautoupdate>
 	<screenshots>1</screenshots>
 	<firmwareminimum>5.0.00</firmwareminimum>
-	<firmwaremaximum>9.99.9</firmwaremaximum>
-	<allowdeletion>yes</allowdeletion>
-  </app>
-  <app>
-	<name>WifiQR</name>
-	<version>1.1</version>
-        <folder>wifiqr</folder>
-	<description>Geef gasten eenvoudig toegang tot uw Wifi netwerk via een QR code. Alleen voor firmware 5 en hoger</description>
-	<author>hvxl</author>
-	<skipautoupdate>no</skipautoupdate>
-	<screenshots>0</screenshots>
-	<firmwareminimum>5.0.4</firmwareminimum>
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
