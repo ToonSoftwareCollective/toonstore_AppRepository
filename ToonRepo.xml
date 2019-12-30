@@ -12,6 +12,18 @@
 	<allowdeletion>no</allowdeletion>
   </app>
   <app>
+	<name>HomeAssistant controller</name>
+	<version>1.0.6</version>
+        <folder>homeassistant</folder>
+	<description>home assistant controller interface</description>
+	<author>Luc_S</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>0</screenshots>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.99.9</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+  </app>
+  <app>
 	<name>WifiQR</name>
 	<version>1.2</version>
         <folder>wifiqr</folder>
@@ -72,18 +84,6 @@
 	<allowdeletion>yes</allowdeletion>
  </app>
  <app>
-	<name>HomeAssistant controller</name>
-	<version>1.0.5</version>
-        <folder>homeassistant</folder>
-	<description>home assistant controller interface</description>
-	<author>Luc_S</author>
-	<skipautoupdate>no</skipautoupdate>
-	<screenshots>0</screenshots>
-	<firmwareminimum>5.0.00</firmwareminimum>
-	<firmwaremaximum>9.99.9</firmwaremaximum>
-	<allowdeletion>yes</allowdeletion>
-  </app>
-  <app>
 	<name>MySolar</name>
 	<version>1.0.4</version>
         <folder>mysolar</folder>
