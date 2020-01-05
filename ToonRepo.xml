@@ -35,6 +35,18 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
+ <app>
+	<name>Twinkly</name>
+	<version>1.0.1</version>
+        <folder>twinkly</folder>
+	<description>Control Twinkly Christmas lights from Toon</description>
+	<author>Toonz</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>0</screenshots>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.99.9</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+  </app>
 <app>
 	<name>HomeAssistant controller</name>
 	<version>1.0.6</version>
@@ -47,18 +59,7 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
-<app>
-	<name>Twinkly</name>
-	<version>1.0.1</version>
-        <folder>twinkly</folder>
-	<description>Control Twinkly Christmas lights from Toon</description>
-	<author>Toonz</author>
-	<skipautoupdate>no</skipautoupdate>
-	<screenshots>0</screenshots>
-	<firmwareminimum>5.0.00</firmwareminimum>
-	<firmwaremaximum>9.99.9</firmwaremaximum>
-	<allowdeletion>yes</allowdeletion>
-  </app>
+
   <app>
 	<name>WifiQR</name>
 	<version>1.2</version>
