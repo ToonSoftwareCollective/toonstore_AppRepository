@@ -11,6 +11,18 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>no</allowdeletion>
   </app>
+   <app>
+	<name>Afvalkalender</name>
+	<version>4.34</version>
+        <folder>wastecollection</folder>
+	<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
+	<author>Toonz</author>
+	<skipautoupdate>yes</skipautoupdate>
+	<screenshots>4</screenshots>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.99.9</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+  </app>
   <app>
 	<name>PostNL</name>
 	<version>1.0.8</version>
@@ -59,7 +71,6 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
-
   <app>
 	<name>WifiQR</name>
 	<version>1.2</version>
@@ -84,18 +95,7 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
-  <app>
-	<name>Afvalkalender</name>
-	<version>4.33</version>
-        <folder>wastecollection</folder>
-	<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
-	<author>Toonz</author>
-	<skipautoupdate>yes</skipautoupdate>
-	<screenshots>4</screenshots>
-	<firmwareminimum>5.0.00</firmwareminimum>
-	<firmwaremaximum>9.99.9</firmwaremaximum>
-	<allowdeletion>yes</allowdeletion>
-  </app>
+
   <app>
 	<name>Buienradar</name>
 	<version>8.5.4</version>
