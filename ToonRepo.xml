@@ -1,7 +1,7 @@
  <repository>
    <app>
 	<name>ToonStore</name>
-	<version>5.0.0</version> 
+	<version>5.0.1</version> 
         <folder>toonstore</folder>
 	<description>App store voor Toon applicaties via github. LET OP:ALLEEN VOOR FIRMWARE 5</description>
 	<author>Toonz, TheHogNL</author>
