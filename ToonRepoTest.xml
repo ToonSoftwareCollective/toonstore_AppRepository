@@ -11,7 +11,18 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>no</allowdeletion>
   </app>
-<app>
+  <app>
+	<name>PostNL</name>
+	<version>1.1.0</version>
+        <folder>postnl</folder>
+	<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
+	<author>Toonz&glsf91</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>0</screenshots>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.9.99</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+  </app> <app>
 	<name>Twinkly</name>
 	<version>1.0.0</version>
         <folder>twinkly</folder>
@@ -59,18 +70,7 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
-  <app>
-	<name>PostNL</name>
-	<version>1.0.6</version>
-        <folder>postnl</folder>
-	<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
-	<author>Toonz</author>
-	<skipautoupdate>no</skipautoupdate>
-	<screenshots>0</screenshots>
-	<firmwareminimum>5.0.00</firmwareminimum>
-	<firmwaremaximum>9.9.99</firmwaremaximum>
-	<allowdeletion>yes</allowdeletion>
-  </app>  <app>
+ <app>
 	<name>Sonos sound system</name>
 	<version>1.1.5</version>
         <folder>sonos</folder>
