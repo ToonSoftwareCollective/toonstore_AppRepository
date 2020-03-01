@@ -25,7 +25,7 @@
   </app>
   <app>
 	<name>Kalender</name>
-	<version>1.1.6</version>
+	<version>1.1.7</version>
         <folder>calendar</folder>
 	<description>Toon Google kalenders op Toon</description>
 	<author>Toonz</author>
