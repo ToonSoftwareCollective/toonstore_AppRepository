@@ -1,6 +1,18 @@
 <repository>
- <app>
-	<name>TooBot</name>
+   <app>
+	<name>ToonStore</name>
+	<version>5.0.1</version> 
+        <folder>toonstore</folder>
+	<description>TEST REPO:App store voor Toon applicaties via github. LET OP:ALLEEN VOOR FIRMWARE 5</description>
+	<author>Toonz, TheHogNL</author>
+	<skipautoupdate>yes</skipautoupdate>
+	<screenshots>5</screenshots>
+	<firmwareminimum>5.00.0</firmwareminimum>
+	<firmwaremaximum>9.99.9</firmwaremaximum>
+	<allowdeletion>no</allowdeletion>
+ </app>
+	<app>
+	<name>ToonBot</name>
 	<version>1.0.0</version>
         <folder>toonbot</folder>
 	<description>Control Toon via e Telegram bot</description>
@@ -23,18 +35,7 @@
 	<firmwaremaximum>9.9.99</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app> 
-   <app>
-	<name>ToonStore</name>
-	<version>5.0.1</version> 
-        <folder>toonstore</folder>
-	<description>TEST REPO:App store voor Toon applicaties via github. LET OP:ALLEEN VOOR FIRMWARE 5</description>
-	<author>Toonz, TheHogNL</author>
-	<skipautoupdate>yes</skipautoupdate>
-	<screenshots>5</screenshots>
-	<firmwareminimum>5.00.0</firmwareminimum>
-	<firmwaremaximum>9.99.9</firmwaremaximum>
-	<allowdeletion>no</allowdeletion>
- </app>
+
   <app>
 	<name>NLAlert</name>
 	<version>1.1.2</version>
