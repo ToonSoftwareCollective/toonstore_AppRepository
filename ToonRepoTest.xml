@@ -6,7 +6,7 @@
 	<description>Control Toon via e Telegram bot</description>
 	<author>glsf91</author>
 	<skipautoupdate>no</skipautoupdate>
-	<screenshots>0</screenshots>
+	<screenshots>3</screenshots>
 	<firmwareminimum>5.0.00</firmwareminimum>
 	<firmwaremaximum>9.9.99</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
