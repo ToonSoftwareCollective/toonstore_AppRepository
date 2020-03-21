@@ -1,4 +1,5 @@
-  <app>
+<repository>
+ <app>
 	<name>TooBot</name>
 	<version>1.0.0</version>
         <folder>toonbot</folder>
@@ -21,7 +22,7 @@
 	<firmwareminimum>5.0.00</firmwareminimum>
 	<firmwaremaximum>9.9.99</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
-  </app> <repository>
+  </app> 
    <app>
 	<name>ToonStore</name>
 	<version>5.0.1</version> 
