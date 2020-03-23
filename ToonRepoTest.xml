@@ -50,7 +50,7 @@
   </app>
   <app>
 	<name>PostNL</name>
-	<version>1.1.0</version>
+	<version>1.1.1</version>
         <folder>postnl</folder>
 	<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
 	<author>Toonz,glsf91</author>
