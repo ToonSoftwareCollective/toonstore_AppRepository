@@ -11,7 +11,19 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>no</allowdeletion>
   </app> 
- <app>
+   <app>
+	<name>Sonos sound system</name>
+	<version>1.2.1</version>
+        <folder>sonos</folder>
+	<description>Bedien je Sonos sound system met Toon</description>
+	<author>harmen070, Toonz</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>6</screenshots>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.99.9</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+  </app>
+	<app>
 	<name>PostNL</name>
 	<version>1.1.1</version>
         <folder>postnl</folder>
@@ -119,7 +131,6 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
-
   <app>
 	<name>WifiQR</name>
 	<version>1.2</version>
@@ -132,18 +143,7 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
-  <app>
-	<name>Sonos sound system</name>
-	<version>1.1.5</version>
-        <folder>sonos</folder>
-	<description>Bedien je Sonos sound system met Toon</description>
-	<author>harmen070, Toonz</author>
-	<skipautoupdate>no</skipautoupdate>
-	<screenshots>6</screenshots>
-	<firmwareminimum>5.0.00</firmwareminimum>
-	<firmwaremaximum>9.99.9</firmwaremaximum>
-	<allowdeletion>yes</allowdeletion>
-  </app>
+
   <app>
 	<name>Buienradar</name>
 	<version>8.5.4</version>
