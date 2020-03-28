@@ -11,6 +11,18 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>no</allowdeletion>
   </app> 
+  <app>
+	<name>PiHoleStats</name>
+	<version>0.1.2</version>
+        <folder>piholestats</folder>
+	<description>Shows PiHole stats on Toon</description>
+	<author>TerrorSource</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>5</screenshots>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.9.99</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+   </app>
    <app>
 	<name>Sonos sound system</name>
 	<version>1.2.1</version>
