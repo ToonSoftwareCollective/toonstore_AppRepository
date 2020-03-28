@@ -49,7 +49,7 @@
   </app>
 <app>
 	<name>NLAlert</name>
-	<version>1.2.0</version>
+	<version>1.2.1</version>
         <folder>nlalert</folder>
 	<description>Bekijk recente NL-Alert meldingen</description>
 	<author>glsf91</author>
