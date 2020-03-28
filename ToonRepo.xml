@@ -11,6 +11,29 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>no</allowdeletion>
   </app> 
+   <app>
+	<name>ToonBot</name>
+	<version>1.1.0</version>
+        <folder>toonbot</folder>
+	<description>Control Toon via e Telegram bot</description>
+	<author>glsf91</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>3</screenshots>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.9.99</firmwaremaximum>
+ </app>
+   <app>
+	<name>NLAlert</name>
+	<version>1.2.1</version>
+        <folder>nlalert</folder>
+	<description>Bekijk recente NL-Alert meldingen</description>
+	<author>glsf91</author>
+	<skipautoupdate>no</skipautoupdate>
+	<screenshots>4</screenshots>
+	<firmwareminimum>5.0.00</firmwareminimum>
+	<firmwaremaximum>9.9.99</firmwaremaximum>
+	<allowdeletion>yes</allowdeletion>
+  </app>
   <app>
 	<name>PiHoleStats</name>
 	<version>0.1.2</version>
@@ -35,7 +58,7 @@
 	<firmwaremaximum>9.99.9</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
-	<app>
+<app>
 	<name>PostNL</name>
 	<version>1.1.1</version>
         <folder>postnl</folder>
@@ -47,29 +70,7 @@
 	<firmwaremaximum>9.9.99</firmwaremaximum>
 	<allowdeletion>yes</allowdeletion>
   </app>
-  <app>
-	<name>ToonBot</name>
-	<version>1.0.1</version>
-        <folder>toonbot</folder>
-	<description>Control Toon via e Telegram bot</description>
-	<author>glsf91</author>
-	<skipautoupdate>no</skipautoupdate>
-	<screenshots>3</screenshots>
-	<firmwareminimum>5.0.00</firmwareminimum>
-	<firmwaremaximum>9.9.99</firmwaremaximum>
- </app>
-  <app>
-	<name>NLAlert</name>
-	<version>1.2.0</version>
-        <folder>nlalert</folder>
-	<description>Bekijk recente NL-Alert meldingen</description>
-	<author>glsf91</author>
-	<skipautoupdate>no</skipautoupdate>
-	<screenshots>4</screenshots>
-	<firmwareminimum>5.0.00</firmwareminimum>
-	<firmwaremaximum>9.9.99</firmwaremaximum>
-	<allowdeletion>yes</allowdeletion>
-  </app>
+
  <app>
 	<name>HomeAssistant controller</name>
 	<version>1.0.7</version>
