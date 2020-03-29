@@ -12,6 +12,17 @@
 		<allowdeletion>no</allowdeletion>
 	</app> 
 	<app>
+		<name>Twinkly</name>
+		<version>1.0.2</version>
+		<folder>twinkly</folder>
+		<description>Control Twinkly Christmas lights from Toon</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<allowdeletion>yes</allowdeletion>
+	</app>	<app>
 		<name>ToonBot</name>
 		<version>1.1.0</version>
 		<folder>toonbot</folder>
@@ -130,18 +141,7 @@
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<allowdeletion>yes</allowdeletion>
 	</app>
-	<app>
-		<name>Twinkly</name>
-		<version>1.0.1</version>
-		<folder>twinkly</folder>
-		<description>Control Twinkly Christmas lights from Toon</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<allowdeletion>yes</allowdeletion>
-	</app>
+
 	<app>
 		<name>WifiQR</name>
 		<version>1.2</version>
