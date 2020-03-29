@@ -73,7 +73,7 @@
 	</app>
 	<app>
 		<name>Twinkly</name>
-		<version>1.0.0</version>
+		<version>1.0.2</version>
 		<folder>twinkly</folder>
 		<description>Control Twinkly Christmas lights from Toon</description>
 		<author>Toonz</author>
