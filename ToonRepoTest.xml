@@ -241,7 +241,7 @@
 	</app>
 	<app>
 		<name>Boilerstatus</name>
-		<version>1.0.6</version>
+		<version>1.0.7</version>
 		<folder>boilerstatus</folder>
 		<description>Toont actuele CV ketel parameters</description>
 		<author>Toon,Marcelr</author>
