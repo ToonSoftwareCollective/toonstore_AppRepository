@@ -12,6 +12,18 @@
 		<allowdeletion>no</allowdeletion>
 	</app> 
 	<app>
+		<name>PostNL</name>
+		<version>1.1.5</version>
+		<folder>postnl</folder>
+		<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
+		<author>Toonz,glfs91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Afvalkalender</name>
 		<version>4.40</version>
 		<folder>wastecollection</folder>
@@ -81,18 +93,7 @@
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<allowdeletion>yes</allowdeletion>
 	</app>
-	<app>
-		<name>PostNL</name>
-		<version>1.1.1</version>
-		<folder>postnl</folder>
-		<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
-		<author>Toonz,glfs91</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<allowdeletion>yes</allowdeletion>
-	</app>
+
 	<app>
 		<name>HomeAssistant controller</name>
 		<version>1.0.7</version>
