@@ -12,6 +12,18 @@
 		<allowdeletion>no</allowdeletion>
 	</app> 
 	<app>
+		<name>Onkyo Controller</name>
+		<version>1.0.6</version>
+		<folder>onkyocontroller</folder>
+		<description>Bedien je Onkyo versterker</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Sonos sound system</name>
 		<version>1.2.2</version>
 		<folder>sonos</folder>
