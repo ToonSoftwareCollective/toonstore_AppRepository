@@ -13,7 +13,7 @@
 	</app>
 	<app>
 		<name>Onkyo Controller</name>
-		<version>1.0.0</version>
+		<version>1.0.6</version>
 		<folder>onkyocontroller</folder>
 		<description>Bedien je Onkyo versterker</description>
 		<author>oepi-loepi</author>
