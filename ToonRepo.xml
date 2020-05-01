@@ -25,7 +25,7 @@
 	</app>
 	<app>
 		<name>PostNL</name>
-		<version>1.1.5</version>
+		<version>1.1.6</version>
 		<folder>postnl</folder>
 		<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
 		<author>Toonz,glfs91</author>
