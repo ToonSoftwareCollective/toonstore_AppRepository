@@ -12,6 +12,18 @@
 		<allowdeletion>no</allowdeletion>
 	</app> 
 	<app>
+		<name>Volumio Controller</name>
+		<version>1.0.1</version>
+		<folder>volumiocontroller</folder>
+		<description>Bedien je Volumio versterker</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Onkyo Controller</name>
 		<version>1.0.6</version>
 		<folder>onkyocontroller</folder>
