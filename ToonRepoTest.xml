@@ -14,7 +14,7 @@
 		<app>
 		<name>Volumio Controller</name>
 		<version>1.0.1</version>
-		<folder>onkyocontroller</folder>
+		<folder>volumiocontroller</folder>
 		<description>Bedien je Volumio versterker</description>
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
