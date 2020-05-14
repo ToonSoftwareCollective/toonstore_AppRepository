@@ -12,6 +12,18 @@
 		<allowdeletion>no</allowdeletion>
 	</app> 
 	<app>
+		<name>PostNL</name>
+		<version>1.1.10</version>
+		<folder>postnl</folder>
+		<description>Bekijk informatie over pakketzendingen via PostNL</description>
+		<author>Toonz,glfs91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Volumio Controller</name>
 		<version>1.0.1</version>
 		<folder>volumiocontroller</folder>
@@ -45,18 +57,6 @@
 		<screenshots>6</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>PostNL</name>
-		<version>1.1.9</version>
-		<folder>postnl</folder>
-		<description>Bekijk informatie over pakketzendingen via PostNL</description>
-		<author>Toonz,glfs91</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
