@@ -274,16 +274,4 @@
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<allowdeletion>yes</allowdeletion>
 	</app>
-		<app>
-		<name>Test-DO NOT INSTALL</name>
-		<version>1.0.0</version>
-		<folder>dummydummy</folder>
-		<description>do not install, nothing happens anyway</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>1</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<allowdeletion>yes</allowdeletion>
-	</app>
 </repository>
