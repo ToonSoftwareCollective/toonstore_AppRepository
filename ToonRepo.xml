@@ -37,7 +37,7 @@
 	</app>
 	<app>
 		<name>Domoticzboard</name>
-		<version>1.1.11</version>
+		<version>1.1.12</version>
 		<folder>domoticzboard</folder>
 		<description>App to control switches and scenes from Domoticz</description>
 		<author>Toonz (from the initial version by TerrorSource)</author>
