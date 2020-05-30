@@ -253,7 +253,7 @@
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>4</screenshots>
-		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwareminimum>6.0.0</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
