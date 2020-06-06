@@ -11,7 +11,20 @@
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>no</allowdeletion>
-	</app> 
+	</app>
+	<app>
+		<name>PiHoleStats</name>
+		<version>0.1.6</version>
+		<folder>piholestats</folder>
+		<description>Shows PiHole stats on Toon</description>
+		<author>TerrorSource</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
 	<app>
 		<name>NLAlert</name>
 		<version>1.2.5</version>
@@ -137,19 +150,6 @@
 		<author>glsf91</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>PiHoleStats</name>
-		<version>0.1.3</version>
-		<folder>piholestats</folder>
-		<description>Shows PiHole stats on Toon</description>
-		<author>TerrorSource</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>5</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
