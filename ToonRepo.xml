@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Buienradar</name>
+		<version>8.5.6</version>
+		<folder>buienradar</folder>
+		<description>Actueel weer en weersverwachting</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>6</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>PiHoleStats</name>
 		<version>0.1.6</version>
 		<folder>piholestats</folder>
@@ -190,19 +203,6 @@
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>2</screenshots>
 		<firmwareminimum>5.0.4</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Buienradar</name>
-		<version>8.5.5</version>
-		<folder>buienradar</folder>
-		<description>Actueel weer en weersverwachting</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>6</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
