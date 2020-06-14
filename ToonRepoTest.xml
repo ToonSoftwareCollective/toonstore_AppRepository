@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Afvalkalender</name>
+		<version>4.42</version>
+		<folder>wastecollection</folder>
+		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
+		<author>Toonz</author>
+		<skipautoupdate>yes</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>PiHoleStats</name>
 		<version>0.1.6</version>
 		<folder>piholestats</folder>
@@ -149,19 +162,6 @@
 		<description>home assistant controller interface</description>
 		<author>Luc_S</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>4</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Afvalkalender</name>
-		<version>4.39</version>
-		<folder>wastecollection</folder>
-		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
-		<author>Toonz</author>
-		<skipautoupdate>yes</skipautoupdate>
 		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
