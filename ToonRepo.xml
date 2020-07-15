@@ -298,4 +298,17 @@
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
+	<app>
+		<name>Zappi</name>
+		<version>1.0.0</version>
+		<folder>zappi</folder>
+		<description>Bekijk en bedien uw myenergi Zappi EV laadpaal via de toon! U heeft wel een myenergi hub nodig die verbonden is aan uw zappi.</description>
+		<author>TheHogNL</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>	
 </repository>
