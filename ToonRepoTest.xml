@@ -300,7 +300,7 @@
 	</app>
 	<app>
 		<name>Zappi</name>
-		<version>1.0.1</version>
+		<version>1.0.0</version>
 		<folder>zappi</folder>
 		<description>Bekijk en bedien uw myenergi Zappi EV laadpaal via de toon! U heeft wel een myenergi hub nodig die verbonden is aan uw zappi.</description>
 		<author>TheHogNL</author>
