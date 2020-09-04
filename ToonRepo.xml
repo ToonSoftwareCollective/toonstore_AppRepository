@@ -115,7 +115,7 @@
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
-	</app
+	</app>
 	<app>
 		<name>Volumio Controller</name>
 		<version>1.0.1</version>
