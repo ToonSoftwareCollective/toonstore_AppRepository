@@ -26,6 +26,19 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
+		<name>Animaties</name>
+		<version>1.2.0</version>
+		<folder>animation</folder>
+		<description>Demo app om verschillende grappige animaties te tonen op Toon</description>
+		<author>Oepi-Loepie</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>yes</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Afvalkalender</name>
 		<version>4.46</version>
 		<folder>wastecollection</folder>
