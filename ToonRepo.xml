@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Onkyo en Pioneer Controller</name>
+		<version>1.1.0</version>
+		<folder>onkyocontroller</folder>
+		<description>Bedien je Onkyo versterker (extern via Domoticz)</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.30.04</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Buienradar</name>
 		<version>8.5.9</version>
 		<folder>buienradar</folder>
@@ -137,19 +150,6 @@
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Onkyo Controller</name>
-		<version>1.0.6</version>
-		<folder>onkyocontroller</folder>
-		<description>Bedien je Onkyo versterker (extern via Domoticz)</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>5</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
