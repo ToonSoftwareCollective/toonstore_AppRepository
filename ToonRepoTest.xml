@@ -12,6 +12,19 @@
 		<toon2only>no</toon2only>
 		<allowdeletion>no</allowdeletion>
 	</app>
+		<app>
+		<name>Onkyo,Pioneer Controller</name>
+		<version>1.1.0</version>
+		<folder>onkyocontroller</folder>
+		<description>Bedien je Onkyo of Pioneer versterker</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
 	<app>
 		<name>Afvalkalender</name>
 		<version>4.42</version>
@@ -51,19 +64,6 @@
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
-	<app>
-		<name>Onkyo Controller</name>
-		<version>1.0.6</version>
-		<folder>onkyocontroller</folder>
-		<description>Bedien je Onkyo versterker</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>5</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>	
 	<app>
 		<name>PostNL</name>
 		<version>1.1.10</version>
