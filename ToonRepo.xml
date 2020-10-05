@@ -27,7 +27,7 @@
 	</app>
 	<app>
 		<name>Onkyo en Pioneer Controller</name>
-		<version>1.1.0</version>
+		<version>1.1.1</version>
 		<folder>onkyocontroller</folder>
 		<description>Bedien je Onkyo versterker (extern via Domoticz)</description>
 		<author>oepi-loepi</author>
