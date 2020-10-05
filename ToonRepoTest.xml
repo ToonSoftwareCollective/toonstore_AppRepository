@@ -12,7 +12,20 @@
 		<toon2only>no</toon2only>
 		<allowdeletion>no</allowdeletion>
 	</app>
-		<app>
+	<app>
+		<name>Kalender</name>
+		<version>1.1.9</version>
+		<folder>calendar</folder>
+		<description>Toon Google kalenders op Toon</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Onkyo,Pioneer Controller</name>
 		<version>1.1.0</version>
 		<folder>onkyocontroller</folder>
@@ -203,19 +216,6 @@
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Kalender</name>
-		<version>1.1.8</version>
-		<folder>calendar</folder>
-		<description>Toon Google kalenders op Toon</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.29</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
