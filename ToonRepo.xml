@@ -20,7 +20,7 @@
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwareminimum>5.30.04</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
