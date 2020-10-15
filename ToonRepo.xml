@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Animaties</name>
+		<version>1.2.3</version>
+		<folder>animation</folder>
+		<description>Demo app om verschillende grappige animaties te tonen op Toon</description>
+		<author>Oepi-Loepie</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Afvalkalender</name>
 		<version>4.47</version>
 		<folder>wastecollection</folder>
@@ -72,19 +85,6 @@
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>6</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Animaties</name>
-		<version>1.2.1</version>
-		<folder>animation</folder>
-		<description>Demo app om verschillende grappige animaties te tonen op Toon</description>
-		<author>Oepi-Loepie</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
