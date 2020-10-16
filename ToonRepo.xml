@@ -40,7 +40,7 @@
 	</app>
 	<app>
 		<name>Kalender</name>
-		<version>1.1.9</version>
+		<version>1.1.10</version>
 		<folder>calendar</folder>
 		<description>Toon Google kalenders op Toon</description>
 		<author>Toonz</author>
