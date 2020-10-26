@@ -19,7 +19,7 @@
 		<description>Bestuur uw WPB installatie</description>
 		<author>glsf91</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.29</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
