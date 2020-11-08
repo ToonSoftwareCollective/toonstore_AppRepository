@@ -52,23 +52,62 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>Kalender</name>
-		<version>1.1.9</version>
-		<folder>calendar</folder>
-		<description>Toon Google kalenders op Toon</description>
-		<author>Toonz</author>
+		<name>Animaties</name>
+		<version>1.2.4</version>
+		<folder>animation</folder>
+		<description>Demo app om verschillende grappige animaties te tonen op Toon</description>
+		<author>Oepi-Loepie</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.29</firmwareminimum>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>Onkyo,Pioneer Controller</name>
-		<version>1.1.0</version>
+		<name>Afvalkalender</name>
+		<version>4.49</version>
+		<folder>wastecollection</folder>
+		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
+		<author>Toonz</author>
+		<skipautoupdate>yes</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Kalender</name>
+		<version>1.1.11</version>
+		<folder>calendar</folder>
+		<description>Toon Google kalenders op Toon</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.30.04</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>ToonBot</name>
+		<version>1.3.0</version>
+		<folder>toonbot</folder>
+		<description>Control Toon via e Telegram bot</description>
+		<author>glsf91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Onkyo en Pioneer Controller</name>
+		<version>1.1.1</version>
 		<folder>onkyocontroller</folder>
-		<description>Bedien je Onkyo of Pioneer versterker</description>
+		<description>Bedien je Onkyo versterker (extern via Domoticz)</description>
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>5</screenshots>
@@ -78,13 +117,39 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>Afvalkalender</name>
-		<version>4.42</version>
-		<folder>wastecollection</folder>
-		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
+		<name>Buienradar</name>
+		<version>8.5.9</version>
+		<folder>buienradar</folder>
+		<description>Actueel weer en weersverwachting</description>
 		<author>Toonz</author>
-		<skipautoupdate>yes</skipautoupdate>
-		<screenshots>4</screenshots>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>6</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>PostNL</name>
+		<version>1.1.14</version>
+		<folder>postnl</folder>
+		<description>Bekijk informatie over pakketzendingen via PostNL</description>
+		<author>Toonz,glfs91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Doorcam</name>
+		<version>1.3.1</version>
+		<folder>doorcam</folder>
+		<description>Toont beelden voor de deurbel camera</description>
+		<author>Oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
@@ -104,24 +169,50 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>Volumio Controller</name>
-		<version>1.0.1</version>
-		<folder>volumiocontroller</folder>
-		<description>Bedien je Volumio versterker</description>
-		<author>oepi-loepi</author>
+		<name>NLAlert</name>
+		<version>1.2.5</version>
+		<folder>nlalert</folder>
+		<description>Bekijk recente NL-Alert meldingen</description>
+		<author>glsf91</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>5</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>PostNL</name>
-		<version>1.1.10</version>
-		<folder>postnl</folder>
-		<description>Bekijk informatie over pakketzendingen en brievenbuspost van PostNL</description>
-		<author>Toonz,glsf91</author>
+		<name>Verkeersinformatie</name>
+		<version>2.0.4</version>
+		<folder>fileinfo</folder>
+		<description>Actuele verkeersinformatie, kan alleen worden geinstalleerd vanaf firmware 5</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Domoticzboard</name>
+		<version>1.1.12</version>
+		<folder>domoticzboard</folder>
+		<description>App to control switches and scenes from Domoticz</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Volumio Controller</name>
+		<version>1.0.1</version>
+		<folder>volumiocontroller</folder>
+		<description>Bedien je Volumio versterker (extern via Domoticz)</description>
+		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
@@ -133,7 +224,7 @@
 		<name>Sonos sound system</name>
 		<version>1.2.2</version>
 		<folder>sonos</folder>
-		<description>Bedien je Sonos sound system met Toon</description>
+		<description>Bedien je Sonos sound system met Toon (extern via Sonos-http-api)</description>
 		<author>harmen070, Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>6</screenshots>
@@ -143,66 +234,14 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>ToonBot</name>
-		<version>1.1.1</version>
-		<folder>toonbot</folder>
-		<description>Control Toon via e Telegram bot</description>
-		<author>glsf91</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>NLAlert</name>
-		<version>1.2.3</version>
-		<folder>nlalert</folder>
-		<description>Bekijk recente NL-Alert meldingen</description>
-		<author>glsf91</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>5</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app> 
-	<app>
 		<name>Twinkly</name>
 		<version>1.0.2</version>
 		<folder>twinkly</folder>
 		<description>Control Twinkly Christmas lights from Toon</description>
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Domoticzboard</name>
-		<version>1.1.11</version>
-		<folder>domoticzboard</folder>
-		<description>App to control switches and scenes from Domoticz</description>
-		<author>Toonz (from the initial version by TerrorSource)</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>WifiQR</name>
-		<version>1.3</version>
-		<folder>wifiqr</folder>
-		<description>Geef gasten eenvoudig toegang tot uw Wifi netwerk via een QR code. Alleen voor firmware 5 en hoger</description>
-		<author>hvxl</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>2</screenshots>
-		<firmwareminimum>5.0.4</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
@@ -221,14 +260,14 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>Buienradar</name>
-		<version>8.5.9</version>
-		<folder>buienradar</folder>
-		<description>Actueel weer en weersverwachting</description>
-		<author>Toonz</author>
+		<name>WifiQR</name>
+		<version>1.3</version>
+		<folder>wifiqr</folder>
+		<description>Geef gasten eenvoudig toegang tot uw Wifi netwerk via een QR code. Alleen voor firmware 5 en hoger</description>
+		<author>hvxl</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>6</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
+		<screenshots>2</screenshots>
+		<firmwareminimum>5.0.4</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
@@ -273,19 +312,6 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>Verkeersinformatie</name>
-		<version>2.0.2</version>
-		<folder>fileinfo</folder>
-		<description>Actuele verkeersinformatie, kan alleen worden geinstalleerd vanaf firmware 5</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
 		<name>Newsreader</name>
 		<version>1.1.3</version>
 		<folder>newsreader</folder>
@@ -293,7 +319,7 @@
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>4</screenshots>
-		<firmwareminimum>6.0.0</firmwareminimum>
+		<firmwareminimum>5.0.0</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
@@ -302,7 +328,7 @@
 		<name>SpotEnergy</name>
 		<version>2.0.7</version>
 		<folder>spotenergy</folder>
-		<description>Bekijk actuele stroomprijzen</description>
+		<description>Bekijk actuele stroomprijzen (vervangt de app EasyEnergy)</description>
 		<author>TheHogNL</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
@@ -321,7 +347,7 @@
 		<screenshots>1</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>yes</toon2only>
+		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
@@ -329,7 +355,7 @@
 		<version>1.0.7</version>
 		<folder>boilerstatus</folder>
 		<description>Toont actuele CV ketel parameters</description>
-		<author>Toon,Marcelr</author>
+		<author>Toonz,Marcelr</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>1</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
@@ -351,4 +377,3 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 </repository>
-
