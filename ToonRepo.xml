@@ -19,7 +19,7 @@
 		<description>Laat voetbalscores zien (icm Animation app)</description>
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.29</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
