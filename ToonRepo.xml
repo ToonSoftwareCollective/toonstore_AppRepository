@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Voetbalscores</name>
+		<version>1.0.14</version>
+		<folder>voetbal</folder>
+		<description>Laat voetbalscores zien (icm Animation app)</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>WPB Controller</name>
 		<version>1.0.0</version>
 		<folder>wpbcontroller</folder>
