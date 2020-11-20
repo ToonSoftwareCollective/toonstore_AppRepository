@@ -172,12 +172,12 @@
 		<name>NLAlert</name>
 		<version>1.2.5</version>
 		<folder>nlalert</folder>
-		<description>Bekijk recente NL-Alert meldingen</description>
+		<description>APP WERKT NIET MEER. ALLEEN VERWIJDEREN MOGELIJK</description>
 		<author>glsf91</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>5</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<firmwaremaximum>0.0.00</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
