@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>NLAlert</name>
+		<version>1.3.0</version>
+		<folder>nlalert</folder>
+		<description>Bekijk recente NL-Alert meldingen</description>
+		<author>glsf91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Afvalkalender</name>
 		<version>4.51</version>
 		<folder>wastecollection</folder>
@@ -174,19 +187,6 @@
 		<folder>piholestats</folder>
 		<description>Shows PiHole stats on Toon</description>
 		<author>TerrorSource</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>5</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>NLAlert</name>
-		<version>1.2.5</version>
-		<folder>nlalert</folder>
-		<description>Bekijk recente NL-Alert meldingen</description>
-		<author>glsf91</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>5</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
