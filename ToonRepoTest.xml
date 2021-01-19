@@ -16,7 +16,7 @@
 		<name>Bitcoin</name>
 		<version>1.0.0</version>
 		<folder>bitcoin</folder>
-		<description>Bekijk de actuele koers van cryptomunten</description>
+		<description>Bekijk de actuele koers van cryptomunten.</description>
 		<author>oepi-loepie</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
