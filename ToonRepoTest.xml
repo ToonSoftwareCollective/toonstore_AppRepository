@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Bitcoin</name>
+		<version>1.0.0</version>
+		<folder>bitCoin</folder>
+		<description>Bekijk de actuele koers van cryptomunten</description>
+		<author>oepi-loepie</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Solar Panel</name>
 		<version>1.2.0</version>
 		<folder>solarPanel</folder>
