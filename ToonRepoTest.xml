@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>Bitcoin</name>
-		<version>1.0.2</version>
+		<version>1.0.3</version>
 		<folder>bitcoin</folder>
 		<description>Bekijk de actuele koers van cryptomunten.</description>
 		<author>oepi-loepie</author>
