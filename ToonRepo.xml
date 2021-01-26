@@ -105,7 +105,7 @@
 	</app>
 	<app>
 		<name>Voetbalscores</name>
-		<version>1.0.30</version>
+		<version>1.0.31</version>
 		<folder>voetbal</folder>
 		<description>Laat voetbalscores zien (icm Animation app)</description>
 		<author>oepi-loepi</author>
