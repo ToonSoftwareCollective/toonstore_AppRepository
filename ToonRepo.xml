@@ -19,7 +19,7 @@
 		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
 		<author>oepi-loepie</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
