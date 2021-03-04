@@ -222,7 +222,7 @@
 	</app>
 	<app>
 		<name>PiHoleStats</name>
-		<version>0.1.6</version>
+		<version>0.1.7</version>
 		<folder>piholestats</folder>
 		<description>Shows PiHole stats on Toon</description>
 		<author>TerrorSource</author>
