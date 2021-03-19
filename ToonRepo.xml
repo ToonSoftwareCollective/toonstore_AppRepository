@@ -427,5 +427,18 @@
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
-	</app>	
+	</app>
+	<app>
+		<name>Daikin</name>
+		<version>6.0.1</version>
+		<folder>daikin</folder>
+		<description>Bedien daikin airco's</description>
+		<author>JackVeraart</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>6</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>		
 </repository>
