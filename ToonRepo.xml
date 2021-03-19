@@ -1,7 +1,7 @@
 <repository>
 	<app>
 		<name>ToonStore</name>
-		<version>5.1.2</version> 
+		<version>5.1.3</version> 
 		<folder>toonstore</folder>
 		<description>App store voor Toon applicaties via github. LET OP:ALLEEN VOOR FIRMWARE 5</description>
 		<author>Toonz, TheHogNL</author>
@@ -157,7 +157,7 @@
 	</app>
 	<app>
 		<name>Voetbalscores</name>
-		<version>1.0.32</version>
+		<version>1.0.33</version>
 		<folder>voetbal</folder>
 		<description>Laat voetbalscores zien (icm Animation app)</description>
 		<author>oepi-loepi</author>
@@ -427,5 +427,18 @@
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
-	</app>	
+	</app>
+	<app>
+		<name>Daikin</name>
+		<version>6.0.1</version>
+		<folder>daikin</folder>
+		<description>Bedien daikin airco's</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>6</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>		
 </repository>
