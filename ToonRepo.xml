@@ -433,7 +433,7 @@
 		<version>6.0.1</version>
 		<folder>daikin</folder>
 		<description>Bedien daikin airco's</description>
-		<author>JackVeraart</author>
+		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>6</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
