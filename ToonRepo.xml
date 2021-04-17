@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>PostNL</name>
+		<version>1.1.16</version>
+		<folder>postnl</folder>
+		<description>Bekijk informatie over pakketzendingen via PostNL</description>
+		<author>Toonz,glfs91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Sonos sound system</name>
 		<version>1.2.6</version>
 		<folder>sonos</folder>
@@ -150,19 +163,6 @@
 		<author>glsf91</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>5</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>PostNL</name>
-		<version>1.1.15</version>
-		<folder>postnl</folder>
-		<description>Bekijk informatie over pakketzendingen via PostNL</description>
-		<author>Toonz,glfs91</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
