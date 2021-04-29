@@ -27,7 +27,7 @@
 	</app>
 	<app>
 		<name>Sonos sound system</name>
-		<version>1.2.6</version>
+		<version>1.2.7</version>
 		<folder>sonos</folder>
 		<description>Bedien je Sonos sound system met Toon (extern via Sonos-http-api)</description>
 		<author>harmen070, Toonz</author>
@@ -79,7 +79,7 @@
 	</app>
 	<app>
 		<name>ToonWater</name>
-		<version>1.1.9</version>
+		<version>1.1.13</version>
 		<folder>toonWater</folder>
 		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
 		<author>oepi-loepi</author>
