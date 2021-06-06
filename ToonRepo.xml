@@ -15,7 +15,7 @@
 	<app>
 		<name>Toon Games</name>
 		<version>1.0.0</version>
-		<folder>toongames</folder>
+		<folder>toonGames</folder>
 		<description>Diverse set of games</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
