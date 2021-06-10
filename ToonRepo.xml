@@ -14,12 +14,12 @@
 	</app>
 	<app>
 		<name>Toon Games</name>
-		<version>1.1.0</version>
+		<version>1.1.1</version>
 		<folder>toonGames</folder>
 		<description>Diverse set of games</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>8</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
@@ -448,7 +448,7 @@
 		<description>Bedien daikin airco's</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>6</screenshots>
+		<screenshots>11</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
