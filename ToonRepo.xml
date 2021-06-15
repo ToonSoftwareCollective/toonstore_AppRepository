@@ -443,7 +443,7 @@
 	</app>
 	<app>
 		<name>Daikin</name>
-		<version>6.2.0</version>
+		<version>6.2.1</version>
 		<folder>daikin</folder>
 		<description>Bedien daikin airco's</description>
 		<author>JackV</author>
