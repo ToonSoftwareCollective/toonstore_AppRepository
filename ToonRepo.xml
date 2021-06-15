@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Toon Games</name>
+		<version>1.1.2</version>
+		<folder>toonGames</folder>
+		<description>Diverse set of games</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>8</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Domoticzboard</name>
 		<version>1.1.13</version>
 		<folder>domoticzboard</folder>
@@ -430,12 +443,12 @@
 	</app>
 	<app>
 		<name>Daikin</name>
-		<version>6.2.0</version>
+		<version>6.2.1</version>
 		<folder>daikin</folder>
 		<description>Bedien daikin airco's</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>6</screenshots>
+		<screenshots>11</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
