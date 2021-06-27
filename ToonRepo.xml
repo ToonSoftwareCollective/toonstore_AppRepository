@@ -105,7 +105,7 @@
 	</app>
 	<app>
 		<name>ToonWater</name>
-		<version>1.1.15</version>
+		<version>1.1.16</version>
 		<folder>toonWater</folder>
 		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
 		<author>oepi-loepi</author>
