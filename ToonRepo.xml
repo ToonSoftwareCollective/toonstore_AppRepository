@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>ThermostatPlus</name>
+		<version>1.0.0</version>
+		<folder>thermostatPlus</folder>
+		<description>Uitgebreide thermostaatfuncties met meerdere Toons</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Verkeersinformatie</name>
 		<version>2.0.5</version>
 		<folder>fileinfo</folder>
