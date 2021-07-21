@@ -13,6 +13,32 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>ThermostatPlus</name>
+		<version>1.0.0</version>
+		<folder>thermostatPlus</folder>
+		<description>Uitgebreide thermostaatfuncties met meerdere Toons</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Verkeersinformatie</name>
+		<version>2.0.5</version>
+		<folder>fileinfo</folder>
+		<description>Actuele verkeersinformatie, kan alleen worden geinstalleerd vanaf firmware 5</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Toon Games</name>
 		<version>1.1.2</version>
 		<folder>toonGames</folder>
@@ -40,7 +66,7 @@
 	</app>
 	<app>
 		<name>PostNL</name>
-		<version>1.1.17</version>
+		<version>1.1.18</version>
 		<folder>postnl</folder>
 		<description>Bekijk informatie over pakketzendingen via PostNL</description>
 		<author>Toonz,glfs91</author>
@@ -105,7 +131,7 @@
 	</app>
 	<app>
 		<name>ToonWater</name>
-		<version>1.1.14</version>
+		<version>1.1.16</version>
 		<folder>toonWater</folder>
 		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
 		<author>oepi-loepi</author>
@@ -282,19 +308,6 @@
 		<screenshots>5</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Verkeersinformatie</name>
-		<version>2.0.4</version>
-		<folder>fileinfo</folder>
-		<description>Actuele verkeersinformatie, kan alleen worden geinstalleerd vanaf firmware 5</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
