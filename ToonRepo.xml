@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Afvalkalender</name>
+		<version>4.65</version>
+		<folder>wastecollection</folder>
+		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
+		<author>Toonz</author>
+		<skipautoupdate>yes</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>PostNL</name>
 		<version>1.1.20</version>
 		<folder>postnl</folder>
@@ -98,19 +111,6 @@
 		<author>harmen070, Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>6</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Afvalkalender</name>
-		<version>4.64</version>
-		<folder>wastecollection</folder>
-		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
-		<author>Toonz</author>
-		<skipautoupdate>yes</skipautoupdate>
-		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
