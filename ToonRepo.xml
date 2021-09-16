@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>PiHoleStats</name>
+		<version>0.1.8</version>
+		<folder>piholestats</folder>
+		<description>Shows PiHole stats on Toon</description>
+		<author>TerrorSource, Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Afvalkalender</name>
 		<version>4.65</version>
 		<folder>wastecollection</folder>
@@ -295,19 +308,6 @@
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>PiHoleStats</name>
-		<version>0.1.7</version>
-		<folder>piholestats</folder>
-		<description>Shows PiHole stats on Toon</description>
-		<author>TerrorSource</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>5</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
