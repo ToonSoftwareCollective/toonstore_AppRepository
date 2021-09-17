@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>PiHoleStats</name>
-		<version>0.1.8</version>
+		<version>0.1.9</version>
 		<folder>piholestats</folder>
 		<description>Shows PiHole stats on Toon</description>
 		<author>TerrorSource, Toonz</author>
