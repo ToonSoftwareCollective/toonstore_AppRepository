@@ -27,7 +27,7 @@
 	</app>
 	<app>
 		<name>Voetbalscores</name>
-		<version>1.1.0</version>
+		<version>1.1.1</version>
 		<folder>voetbal</folder>
 		<description>Laat voetbalscores zien (icm Animation app)</description>
 		<author>oepi-loepi</author>
