@@ -39,6 +39,19 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
+		<name>Kalender</name>
+		<version>1.1.12</version>
+		<folder>calendar</folder>
+		<description>Toon Google kalenders op Toon</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.30.04</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Afvalkalender</name>
 		<version>4.65</version>
 		<folder>wastecollection</folder>
@@ -281,19 +294,6 @@
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Kalender</name>
-		<version>1.1.11</version>
-		<folder>calendar</folder>
-		<description>Toon Google kalenders op Toon</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
-		<firmwareminimum>5.30.04</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
