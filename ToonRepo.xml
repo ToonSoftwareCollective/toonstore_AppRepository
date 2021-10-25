@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>Afvalkalender</name>
-		<version>5.0</version>
+		<version>5.1</version>
 		<folder>wastecollection</folder>
 		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
 		<author>Toonz</author>
