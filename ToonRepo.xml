@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Afvalkalender</name>
+		<version>5.1</version>
+		<folder>wastecollection</folder>
+		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
+		<author>Toonz</author>
+		<skipautoupdate>yes</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Buienradar</name>
 		<version>9.0.2</version>
 		<folder>buienradar</folder>
@@ -60,19 +73,6 @@
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
 		<firmwareminimum>5.30.04</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Afvalkalender</name>
-		<version>4.70</version>
-		<folder>wastecollection</folder>
-		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
-		<author>Toonz</author>
-		<skipautoupdate>yes</skipautoupdate>
-		<screenshots>4</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
