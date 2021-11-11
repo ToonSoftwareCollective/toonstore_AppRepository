@@ -94,10 +94,10 @@
 		<name>ThermostatPlus</name>
 		<version>2.0.0</version>
 		<folder>thermostatPlus</folder>
-		<description>Uitgebreide thermostaatfuncties met 1 of meerdere Toons en minimaal 1 kachel</description>
+		<description>Uitgebreide thermostaatfuncties met 1 of meerdere Toons en minimaal 1 kachel. Programma met instelbaar aantal dagen.</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>7</screenshots>
+		<screenshots>11</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
