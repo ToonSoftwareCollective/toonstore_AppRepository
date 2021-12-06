@@ -13,6 +13,32 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Daikin</name>
+		<version>6.2.2</version>
+		<folder>daikin</folder>
+		<description>Bedien daikin airco's</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>11</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>P2000</name>
+		<version>1.0.0</version>
+		<folder>p2000</folder>
+		<description>Toon P2000 meldingen</description>
+		<author>Oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Kalender</name>
 		<version>1.1.14</version>
 		<folder>calendar</folder>
@@ -449,19 +475,6 @@
 		<author>TheHogNL</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Daikin</name>
-		<version>6.2.1</version>
-		<folder>daikin</folder>
-		<description>Bedien daikin airco's</description>
-		<author>JackV</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>11</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
