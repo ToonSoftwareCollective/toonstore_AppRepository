@@ -16,7 +16,7 @@
 		<name>Daikin</name>
 		<version>6.2.2</version>
 		<folder>daikin</folder>
-		<description>Bedien daikin airco's</description>
+		<description>Bedien tot 4 Daikin airco's</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>11</screenshots>
@@ -120,7 +120,7 @@
 		<name>ThermostatPlus</name>
 		<version>2.0.1</version>
 		<folder>thermostatPlus</folder>
-		<description>Uitgebreide thermostaatfuncties met 1 of meerdere Toons en minimaal 1 kachel. Programma met instelbaar aantal dagen.</description>
+		<description>Thermostaatfuncties met 1 of meer Toons en kachels. Programma aantal dagen instelbaar.</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>11</screenshots>
