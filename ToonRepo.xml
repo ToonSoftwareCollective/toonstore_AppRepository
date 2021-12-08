@@ -52,6 +52,19 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
+		<name>ToonWater</name>
+		<version>1.1.17</version>
+		<folder>toonWater</folder>
+		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Kalender</name>
 		<version>1.1.14</version>
 		<folder>calendar</folder>
@@ -202,19 +215,6 @@
 		<author>glsf91</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>5</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>ToonWater</name>
-		<version>1.1.16</version>
-		<folder>toonWater</folder>
-		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
