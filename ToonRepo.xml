@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Sonos sound system</name>
+		<version>1.2.8</version>
+		<folder>sonos</folder>
+		<description>Bedien je Sonos sound system met Toon (extern via Sonos-http-api)</description>
+		<author>harmen070, Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>6</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Daikin</name>
 		<version>6.2.2</version>
 		<folder>daikin</folder>
@@ -178,19 +191,6 @@
 		<screenshots>7</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Sonos sound system</name>
-		<version>1.2.7</version>
-		<folder>sonos</folder>
-		<description>Bedien je Sonos sound system met Toon (extern via Sonos-http-api)</description>
-		<author>harmen070, Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>6</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
