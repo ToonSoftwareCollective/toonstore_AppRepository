@@ -146,12 +146,12 @@
 		<name>PostNL</name>
 		<version>1.1.21</version>
 		<folder>postnl</folder>
-		<description>Bekijk informatie over pakketzendingen via PostNL</description>
+		<description>App werkt niet meer. Niet beschikbaar voor nieuwe installaties, alleen verwijderen</description>
 		<author>Toonz,glfs91</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>5.0.0</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
@@ -432,7 +432,7 @@
 		<name>OV</name>
 		<version>1.1.4</version>
 		<folder>ov</folder>
-		<description>App werkt niet meer. Niet beschikbaar vooor nieuwe installaties, alleen verwijderen</description>
+		<description>App werkt niet meer. Niet beschikbaar voor nieuwe installaties, alleen verwijderen</description>
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
