@@ -432,12 +432,12 @@
 		<name>OV</name>
 		<version>1.1.4</version>
 		<folder>ov</folder>
-		<description>Bekijk actuele vertrektijden van tram, bus, metro en trein</description>
+		<description>App werkt niet meer. Niet beschikbaar vooor nieuwe installaties, alleen verwijderen</description>
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>5.0.0</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
