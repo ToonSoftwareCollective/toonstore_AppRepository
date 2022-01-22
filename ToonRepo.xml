@@ -53,7 +53,7 @@
 	</app>
 	<app>
 		<name>Sonos sound system</name>
-		<version>1.2.8</version>
+		<version>1.2.9</version>
 		<folder>sonos</folder>
 		<description>Bedien je Sonos sound system met Toon (extern via Sonos-http-api)</description>
 		<author>harmen070, Toonz</author>
