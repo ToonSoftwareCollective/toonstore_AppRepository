@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>ToonWater</name>
+		<version>1.1.18</version>
+		<folder>toonWater</folder>
+		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Kalender</name>
 		<version>1.1.15</version>
 		<folder>calendar</folder>
@@ -53,7 +66,7 @@
 	</app>
 	<app>
 		<name>Sonos sound system</name>
-		<version>1.2.8</version>
+		<version>1.2.9</version>
 		<folder>sonos</folder>
 		<description>Bedien je Sonos sound system met Toon (extern via Sonos-http-api)</description>
 		<author>harmen070, Toonz</author>
@@ -78,19 +91,6 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>ToonWater</name>
-		<version>1.1.17</version>
-		<folder>toonWater</folder>
-		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-		<app>
 		<name>CountDown</name>
 		<version>1.0.0</version>
 		<folder>countDown</folder>
