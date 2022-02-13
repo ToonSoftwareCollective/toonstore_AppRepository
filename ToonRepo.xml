@@ -15,7 +15,7 @@
 	<app>
 		<name>iBood</name>
 		<version>1.0.0</version>
-		<folder>iBood</folder>
+		<folder>ibood</folder>
 		<description>Bekijk de dagaanbieding van iBood op de toon.</description>
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
