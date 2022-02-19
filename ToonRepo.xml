@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>CountDown</name>
+		<version>1.1.0</version>
+		<folder>countDown</folder>
+		<description>Tel af naar / tel verder van ingestelde gebeurtenis</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>iBood</name>
 		<version>1.0.2</version>
 		<folder>ibood</folder>
@@ -98,19 +111,6 @@
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>11</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>CountDown</name>
-		<version>1.0.0</version>
-		<folder>countDown</folder>
-		<description>Tel af naar ingestelde gebeurtenissen</description>
-		<author>JackV</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
