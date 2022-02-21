@@ -107,10 +107,10 @@
 		<name>CountDown</name>
 		<version>1.1.0</version>
 		<folder>countDown</folder>
-		<description>Tel af naar/tel op vanaf ingestelde gebeurtenis</description>
+		<description>Tel af naar ingestelde gebeurtenissen</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>5</screenshots>
+		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
