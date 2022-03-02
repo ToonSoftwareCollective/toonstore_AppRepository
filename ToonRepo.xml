@@ -131,7 +131,7 @@
 	</app>
 	<app>
 		<name>Buienradar</name>
-		<version>9.0.3</version>
+		<version>9.0.4</version>
 		<folder>buienradar</folder>
 		<description>Actueel weer en weersverwachting</description>
 		<author>Toonz</author>
