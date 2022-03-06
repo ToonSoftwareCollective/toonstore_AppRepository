@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>EU Buienradar</name>
-		<version>1.0.1</version>
+		<version>1.0.2</version>
 		<folder>euBuienradar</folder>
 		<description>Actueel weer en weersverwachting Europese steden</description>
 		<author>Toonz</author>
