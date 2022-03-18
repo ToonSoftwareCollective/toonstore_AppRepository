@@ -27,7 +27,7 @@
 	</app>
 	<app>
 		<name>CountDown</name>
-		<version>1.1.0</version>
+		<version>1.1.1</version>
 		<folder>countDown</folder>
 		<description>Tel af naar/op vanaf ingestelde gebeurtenis</description>
 		<author>JackV</author>
