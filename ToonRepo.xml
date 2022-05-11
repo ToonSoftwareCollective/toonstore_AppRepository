@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>toonTemp</name>
-		<version>1.4.4</version>
+		<version>1.4.5</version>
 		<folder>toonTemp</folder>
 		<description>Bekijk externe temperatuur sensoren op Toon.</description>
 		<author>oepi-loepi</author>
