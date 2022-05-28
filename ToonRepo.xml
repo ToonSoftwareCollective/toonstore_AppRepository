@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>pumpSwitch</name>
-		<version>1.0.2</version>
+		<version>1.0.3</version>
 		<folder>pumpSwitch</folder>
 		<description>Schakel je vloerverwarmingspomp uit met een slimme stekker</description>
 		<author>oepi-loepi</author>
