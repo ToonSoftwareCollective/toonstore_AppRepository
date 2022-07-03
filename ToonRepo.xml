@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>pumpSwitch</name>
+		<version>1.0.8</version>
+		<folder>pumpSwitch</folder>
+		<description>Schakel je vloerverwarmingspomp uit met een slimme stekker</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Newsreader</name>
 		<version>1.1.4</version>
 		<folder>newsreader</folder>
@@ -22,19 +35,6 @@
 		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.0</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>pumpSwitch</name>
-		<version>1.0.6</version>
-		<folder>pumpSwitch</folder>
-		<description>Schakel je vloerverwarmingspomp uit met een slimme stekker</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
