@@ -13,6 +13,32 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>AutoReboot</name>
+		<version>1.0.1</version>
+		<folder>autoReboot</folder>
+		<description>Elke maandagnacht een automatische restart</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Zonneboiler Stats</name>
+		<version>0.1.0</version>
+		<folder>zonneboilerstats</folder>
+		<description>Toon gevevens van uw zonneboiler op Toon (via Raspberry Pi)</description>
+		<author>msx4ever</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>pumpSwitch</name>
 		<version>1.0.8</version>
 		<folder>pumpSwitch</folder>
@@ -371,19 +397,6 @@
 		<author>glsf91</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.29</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Zonneboiler Stats</name>
-		<version>0.0.1</version>
-		<folder>zonneboilerstats</folder>
-		<description>Toon gevevens van uw zonneboiler op Toon (via Raspberry Pi)</description>
-		<author>msx4ever</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.29</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
