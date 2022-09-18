@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Solar Panel</name>
+		<version>1.4.1</version>
+		<folder>solarPanel</folder>
+		<description>Bekijk de opbrengst van je zonnepanelen. Niet installeren als je ZonOpToon, via hardware hebt.</description>
+		<author>oepi-loepie</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>7</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Sonos sound system</name>
 		<version>1.2.10</version>
 		<folder>sonos</folder>
@@ -299,19 +312,6 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>Solar Panel</name>
-		<version>1.4.0</version>
-		<folder>solarPanel</folder>
-		<description>Bekijk de opbrengst van je zonnepanelen. Niet installeren als je ZonOpToon, via qubino smart meter of via meteradapter, al hebt.</description>
-		<author>oepi-loepie</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>7</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
 		<name>StookAlert</name>
 		<version>1.0.0</version>
 		<folder>stookalert</folder>
@@ -547,7 +547,7 @@
 	</app>
 	<app>
 		<name>Zappi</name>
-		<version>1.5.0</version>
+		<version>1.5.1</version>
 		<folder>zappi</folder>
 		<description>Bekijk en bedien uw myenergi Zappi EV laadpaal via de toon! U heeft wel een myenergi hub nodig die verbonden is aan uw zappi.</description>
 		<author>TheHogNL</author>
