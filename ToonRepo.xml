@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Voetbalscores</name>
+		<version>1.1.5</version>
+		<folder>voetbal</folder>
+		<description>Laat voetbalscores zien (icm Animation app)</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Solar Panel</name>
 		<version>1.4.4</version>
 		<folder>solarPanel</folder>
@@ -230,19 +243,6 @@
 		<screenshots>5</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Voetbalscores</name>
-		<version>1.1.4</version>
-		<folder>voetbal</folder>
-		<description>Laat voetbalscores zien (icm Animation app)</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>4</screenshots>
-		<firmwareminimum>5.0.29</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
