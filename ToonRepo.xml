@@ -27,10 +27,10 @@
 	</app>
 	<app>
 		<name>Solar Panel</name>
-		<version>1.4.4</version>
+		<version>1.4.5</version>
 		<folder>solarPanel</folder>
 		<description>Bekijk de opbrengst van je zonnepanelen. Niet installeren als je ZonOpToon, via hardware hebt.</description>
-		<author>oepi-loepie</author>
+		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>7</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
@@ -53,9 +53,9 @@
 	</app>
 	<app>
 		<name>AutoReboot</name>
-		<version>1.0.1</version>
+		<version>1.0.2</version>
 		<folder>autoReboot</folder>
-		<description>Elke maandagnacht een automatische restart</description>
+		<description>3 keer per week s nachts een automatische restart</description>
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
