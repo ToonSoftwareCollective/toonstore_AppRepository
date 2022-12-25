@@ -13,7 +13,7 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
-		<name>TSC Clock</name>
+		<name>TSC Klok</name>
 		<version>1.0.0</version>
 		<folder>tscClock</folder>
 		<description>Klok plus extra dag van de week en datum. In dim stand zelfde font en positie als de buienradar tegel</description>
