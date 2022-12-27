@@ -14,12 +14,12 @@
 	</app>
 	<app>
 		<name>TSC Klok</name>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<folder>tscClock</folder>
-		<description>Klok plus extra dag van de week en datum. In dim stand zelfde font en positie als de buienradar tegel</description>
+		<description>Klok plus extra functies. In dim stand zelfde font en positie als de buienradar tegel</description>
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>1</screenshots>
 		<firmwareminimum>5.0.29</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
