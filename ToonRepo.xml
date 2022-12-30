@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>ToonWater</name>
+		<version>1.1.20</version>
+		<folder>toonWater</folder>
+		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Buienradar</name>
 		<version>9.0.7</version>
 		<folder>buienradar</folder>
@@ -176,19 +189,6 @@
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>ToonWater</name>
-		<version>1.1.19</version>
-		<folder>toonWater</folder>
-		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
