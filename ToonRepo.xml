@@ -39,6 +39,19 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
+		<name>EU Buienradar</name>
+		<version>1.0.3</version>
+		<folder>euBuienradar</folder>
+		<description>Actueel weer en weersverwachting Europese steden</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>TSC Klok</name>
 		<version>1.0.1</version>
 		<folder>tscClock</folder>
@@ -152,19 +165,6 @@
 		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>EU Buienradar</name>
-		<version>1.0.2</version>
-		<folder>euBuienradar</folder>
-		<description>Actueel weer en weersverwachting Europese steden</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
