@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Doorcam</name>
+		<version>1.3.2</version>
+		<folder>doorcam</folder>
+		<description>Toont beelden voor de deurbel camera</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Slimme Stekker Programma</name>
 		<version>1.0.3</version>
 		<folder>plugSchedule</folder>
