@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>AutoReboot</name>
+		<version>1.0.3</version>
+		<folder>autoReboot</folder>
+		<description>3 keer per week s nachts een automatische restart</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Doorcam</name>
 		<version>1.3.3</version>
 		<folder>doorcam</folder>
