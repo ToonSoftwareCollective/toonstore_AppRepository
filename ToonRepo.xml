@@ -143,19 +143,6 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>AutoReboot</name>
-		<version>1.0.2</version>
-		<folder>autoReboot</folder>
-		<description>3 keer per week s nachts een automatische restart</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.29</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
 		<name>Zonneboiler Stats</name>
 		<version>0.1.0</version>
 		<folder>zonneboilerstats</folder>
