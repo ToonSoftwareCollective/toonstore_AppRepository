@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Solar Panel</name>
+		<version>1.4.6</version>
+		<folder>solarPanel</folder>
+		<description>Bekijk de opbrengst van je zonnepanelen. Niet installeren als je ZonOpToon, via hardware hebt.</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>7</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Doorcam</name>
 		<version>1.3.5</version>
 		<folder>doorcam</folder>
@@ -113,19 +126,6 @@
 		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.29</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Solar Panel</name>
-		<version>1.4.5</version>
-		<folder>solarPanel</folder>
-		<description>Bekijk de opbrengst van je zonnepanelen. Niet installeren als je ZonOpToon, via hardware hebt.</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>7</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
