@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>toonTemp</name>
+		<version>1.4.6</version>
+		<folder>toonTemp</folder>
+		<description>Bekijk externe temperatuur sensoren op Toon.</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Solar Panel</name>
 		<version>1.4.6</version>
 		<folder>solarPanel</folder>
@@ -178,19 +191,6 @@
 		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.0</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>toonTemp</name>
-		<version>1.4.5</version>
-		<folder>toonTemp</folder>
-		<description>Bekijk externe temperatuur sensoren op Toon.</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
