@@ -16,7 +16,7 @@
 		<name>SonosCloud</name>
 		<version>1.0.0</version>
 		<folder>cloudSonos</folder>
-		<description>BBedien je Sonos apparatuur vanaf toon zonder extra hardware.</description>
+		<description>Bedien je Sonos apparatuur vanaf toon zonder extra hardware.</description>
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
