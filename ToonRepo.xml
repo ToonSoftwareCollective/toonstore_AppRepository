@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>SonosCloud</name>
+		<version>1.0.2</version>
+		<folder>cloudSonos</folder>
+		<description>Bedien je Sonos apparatuur vanaf toon zonder extra hardware.</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Solar Panel</name>
 		<version>1.4.7</version>
 		<folder>solarPanel</folder>
