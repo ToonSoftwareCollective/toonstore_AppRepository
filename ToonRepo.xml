@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>SonosCloud</name>
-		<version>1.0.3</version>
+		<version>1.0.4</version>
 		<folder>cloudSonos</folder>
 		<description>Bedien je Sonos apparatuur vanaf toon zonder extra hardware.</description>
 		<author>oepi-loepi</author>
