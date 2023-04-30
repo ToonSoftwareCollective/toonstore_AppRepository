@@ -27,7 +27,7 @@
 	</app>
 	<app>
 		<name>variEnergy</name>
-		<version>1.0.1</version>
+		<version>1.0.2</version>
 		<folder>variEnergy</folder>
 		<description>Zie variabele energyprijzen op de toon</description>
 		<author>oepi-loepi</author>
