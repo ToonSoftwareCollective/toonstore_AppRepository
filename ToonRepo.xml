@@ -26,21 +26,8 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>variEnergy</name>
-		<version>1.0.2</version>
-		<folder>variEnergy</folder>
-		<description>Zie variabele energyprijzen op de toon</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
 		<name>Solar Panel</name>
-		<version>1.4.8</version>
+		<version>1.4.9</version>
 		<folder>solarPanel</folder>
 		<description>Bekijk de opbrengst van je zonnepanelen. Niet installeren als je ZonOpToon, via hardware hebt.</description>
 		<author>oepi-loepi</author>
