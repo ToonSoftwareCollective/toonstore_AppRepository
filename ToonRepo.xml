@@ -13,6 +13,32 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Game of Life</name>
+		<version>1.0.0</version>
+		<folder>life</folder>
+		<description>Conway's Game of Life.</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Rekenmachine</name>
+		<version>1.0.2</version>
+		<folder>calculator</folder>
+		<description>Rekenmachine voor de Toon.</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Bitcoin</name>
 		<version>1.0.5</version>
 		<folder>bitcoin</folder>
