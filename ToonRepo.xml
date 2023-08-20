@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>Game of Life</name>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<folder>life</folder>
 		<description>Conway's Game of Life.</description>
 		<author>JackV</author>
