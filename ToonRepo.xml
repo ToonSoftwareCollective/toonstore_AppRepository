@@ -32,7 +32,7 @@
 		<description>Conway's Game of Life.</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>8</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>yes</toon2only>
