@@ -27,7 +27,7 @@
 	</app>
 	<app>
 		<name>Game of Life</name>
-		<version>2.0.0</version>
+		<version>2.0.1</version>
 		<folder>life</folder>
 		<description>Conway's Game of Life.</description>
 		<author>JackV</author>
@@ -35,7 +35,7 @@
 		<screenshots>8</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>yes</toon2only>
+		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
