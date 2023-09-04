@@ -40,7 +40,7 @@
 	</app>
 	<app>
 		<name>Rekenmachine</name>
-		<version>1.0.2</version>
+		<version>1.0.3</version>
 		<folder>calculator</folder>
 		<description>Rekenmachine voor de Toon.</description>
 		<author>JackV</author>
