@@ -45,7 +45,7 @@
 		<description>Rekenmachine voor de Toon.</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>1</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
