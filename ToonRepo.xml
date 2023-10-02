@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Domoticzboard</name>
+		<version>1.1.14</version>
+		<folder>domoticzboard</folder>
+		<description>App to control switches and scenes from Domoticz</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>iBood</name>
 		<version>1.2.0</version>
 		<folder>ibood</folder>
@@ -384,19 +397,6 @@
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>8</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Domoticzboard</name>
-		<version>1.1.13</version>
-		<folder>domoticzboard</folder>
-		<description>App to control switches and scenes from Domoticz</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
