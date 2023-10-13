@@ -13,6 +13,32 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>AutoReboot</name>
+		<version>1.0.4</version>
+		<folder>autoReboot</folder>
+		<description>3 keer per week s nachts een automatische restart</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Domoticzboard</name>
+		<version>1.1.14</version>
+		<folder>domoticzboard</folder>
+		<description>App to control switches and scenes from Domoticz</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>iBood</name>
 		<version>1.2.0</version>
 		<folder>ibood</folder>
@@ -27,7 +53,7 @@
 	</app>
 	<app>
 		<name>SonosCloud</name>
-		<version>1.1.1</version>
+		<version>1.1.2</version>
 		<folder>cloudSonos</folder>
 		<description>Bedien je Sonos apparatuur vanaf toon zonder extra hardware.</description>
 		<author>oepi-loepi</author>
@@ -40,7 +66,7 @@
 	</app>
 	<app>
 		<name>Game of Life</name>
-		<version>2.0.1</version>
+		<version>2.0.2</version>
 		<folder>life</folder>
 		<description>Conway's Game of Life.</description>
 		<author>JackV</author>
@@ -125,19 +151,6 @@
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>AutoReboot</name>
-		<version>1.0.3</version>
-		<folder>autoReboot</folder>
-		<description>3 keer per week s nachts een automatische restart</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.29</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
@@ -384,19 +397,6 @@
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>8</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Domoticzboard</name>
-		<version>1.1.13</version>
-		<folder>domoticzboard</folder>
-		<description>App to control switches and scenes from Domoticz</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
