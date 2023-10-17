@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>ToonWater</name>
+		<version>1.1.23</version>
+		<folder>toonWater</folder>
+		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>AutoReboot</name>
 		<version>1.0.4</version>
 		<folder>autoReboot</folder>
@@ -163,19 +176,6 @@
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>ToonWater</name>
-		<version>1.1.22</version>
-		<folder>toonWater</folder>
-		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
