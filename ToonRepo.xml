@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>Homey</name>
-		<version>1.0.8</version>
+		<version>1.0.9</version>
 		<folder>homey</folder>
 		<description>Bedien je Homey via de Toon.</description>
 		<author>oepi-loepi</author>
