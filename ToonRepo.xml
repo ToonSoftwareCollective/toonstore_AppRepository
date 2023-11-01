@@ -13,19 +13,6 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
-		<name>Homey</name>
-		<version>1.0.10</version>
-		<folder>homey</folder>
-		<description>Bedien je Homey via de Toon.</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
 		<name>ToonWater</name>
 		<version>1.1.24</version>
 		<folder>toonWater</folder>
