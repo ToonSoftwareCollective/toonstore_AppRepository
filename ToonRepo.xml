@@ -1,7 +1,7 @@
 <repository>
 	<app>
 		<name>Homey</name>
-		<version>1.0.18</version>
+		<version>1.0.19</version>
 		<folder>homey</folder>
 		<description>Bedien en lees je Homey op de Toon</description>
 		<author>oepi-loepi</author>
