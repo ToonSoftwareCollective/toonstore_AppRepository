@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>ThermostatPlus</name>
+		<version>3.0.0</version>
+		<folder>thermostatPlus</folder>
+		<description>Thermostaatfuncties met 1 of meer Toons en kachels. Programma aantal dagen instelbaar en web pagina beschikbaar.</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>7</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>ToonWater</name>
 		<version>1.1.24</version>
 		<folder>toonWater</folder>
@@ -347,19 +360,6 @@
 		<screenshots>5</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>ThermostatPlus</name>
-		<version>2.0.1</version>
-		<folder>thermostatPlus</folder>
-		<description>Thermostaatfuncties met 1 of meer Toons en kachels. Programma aantal dagen instelbaar.</description>
-		<author>JackV</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>11</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
