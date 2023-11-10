@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Homey</name>
+		<version>1.0.28</version>
+		<folder>homey</folder>
+		<description>Bedien en lees je Homey op de Toon</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>ThermostatPlus</name>
 		<version>3.0.0</version>
 		<folder>thermostatPlus</folder>
