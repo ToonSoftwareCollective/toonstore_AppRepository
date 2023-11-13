@@ -29,7 +29,7 @@
 		<name>ThermostatPlusBasic</name>
 		<version>2.0.1</version>
 		<folder>thermostatPlusBasic</folder>
-		<description>Installeer deze als je Toon ThermostatPlus nog niet ondersteunt. Of Update de Software in Instelingen.</description>
+		<description>Installeer deze als je Toon ThermostatPlus App nog niet ondersteunt.</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>2</screenshots>
