@@ -26,6 +26,19 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
+		<name>ThermostatPlusBasic</name>
+		<version>2.0.1</version>
+		<folder>thermostatPlusBasic</folder>
+		<description>Installeer deze als je Toon ThermostatPlus nog niet ondersteunt. Of Update de Software in Instelingen.</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>2</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>ThermostatPlus</name>
 		<version>3.0.0</version>
 		<folder>thermostatPlus</folder>
