@@ -27,9 +27,9 @@
 	</app>
 	<app>
 		<name>ThermostatPlusBasic</name>
-		<version>2.0.1</version>
+		<version>2.0.2</version>
 		<folder>thermostatPlusBasic</folder>
-		<description>Installeer deze als je Toon ThermostatPlus App nog niet ondersteunt.</description>
+		<description>Als ThermostatPlus niet meteen werkt gebruik dan tijdelijk thermostatPlusBasic zodat je Toon wordt voorbereid.</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>2</screenshots>
