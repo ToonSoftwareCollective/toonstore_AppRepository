@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>Homey</name>
-		<version>1.0.28</version>
+		<version>1.0.32</version>
 		<folder>homey</folder>
 		<description>Bedien en lees je Homey op de Toon</description>
 		<author>oepi-loepi</author>
@@ -29,7 +29,7 @@
 		<name>ThermostatPlusBasic</name>
 		<version>2.0.1</version>
 		<folder>thermostatPlusBasic</folder>
-		<description>Installeer deze als je Toon ThermostatPlus App nog niet ondersteunt.</description>
+		<description>Als ThermostatPlus niet meteen werkt gebruik dan tijdelijk thermostatPlusBasic zodat je Toon wordt voorbereid.</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>2</screenshots>
