@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>Solar Panel</name>
-		<version>1.4.9</version>
+		<version>1.4.10</version>
 		<folder>solarPanel</folder>
 		<description>Bekijk de opbrengst van je zonnepanelen. Niet installeren als je ZonOpToon, via hardware hebt.</description>
 		<author>oepi-loepi</author>
