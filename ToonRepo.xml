@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>Domoticzboard</name>
-		<version>1.1.17</version>
+		<version>1.1.18</version>
 		<folder>domoticzboard</folder>
 		<description>App to control switches and scenes from Domoticz</description>
 		<author>Toonz</author>
@@ -22,6 +22,19 @@
 		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Slimme Stekker Programma</name>
+		<version>1.0.4</version>
+		<folder>plugSchedule</folder>
+		<description>Schakel slimme stekker aan of uit volgens programma (Zwave en Domoticz).</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
@@ -217,19 +230,6 @@
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Slimme Stekker Programma</name>
-		<version>1.0.3</version>
-		<folder>plugSchedule</folder>
-		<description>Schakel slimme stekker aan of uit volgens programma.</description>
-		<author>Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
