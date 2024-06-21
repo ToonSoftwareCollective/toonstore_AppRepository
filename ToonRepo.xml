@@ -1,5 +1,18 @@
 <repository>
 	<app>
+		<name>zwaveRepair</name>
+		<version>1.0.0</version>
+		<folder>zwaveRepai</folder>
+		<description>Installeer deze als de meteradapter steeds plotseling verdwijnt</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>ThermostatPlusBasic</name>
 		<version>2.0.1</version>
 		<folder>thermostatPlusBasic</folder>
