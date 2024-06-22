@@ -2,7 +2,7 @@
 	<app>
 		<name>zwaveRepair</name>
 		<version>1.0.2</version>
-		<folder>zwaveRepai</folder>
+		<folder>zwaveRepair</folder>
 		<description>Installeer deze als de meteradapter steeds plotseling verdwijnt</description>
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
