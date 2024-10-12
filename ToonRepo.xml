@@ -52,19 +52,6 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>iBood</name>
-		<version>1.2.1</version>
-		<folder>ibood</folder>
-		<description>Bekijk de dagaanbieding van iBood op de toon.</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
 		<name>ToonWater</name>
 		<version>1.1.25</version>
 		<folder>toonWater</folder>
@@ -635,7 +622,20 @@
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
-	</app>		
+	</app>
+	<app>
+		<name>iBood</name>
+		<version>1.2.1</version>
+		<folder>ibood</folder>
+		<description>App werkt niet meer. Niet beschikbaar voor nieuwe installaties, alleen verwijderen</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>5.0.00</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
 	<app>
 		<name>PostNL</name>
 		<version>1.1.21</version>
