@@ -13,8 +13,593 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
-		<name>Boilerstatus</name>
+		<name>AutoReboot</name>
+		<version>1.0.6</version>
+		<folder>autoReboot</folder>
+		<description>Iedere 2 dagen s nachts een automatische restart om 3 uur</description>
+		<author>oepi-loepi, Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Voetbalscores</name>
+		<version>1.1.6</version>
+		<folder>voetbal</folder>
+		<description>Laat voetbalscores zien (icm Animation app)</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Solar Panel</name>
+		<version>1.4.12</version>
+		<folder>solarPanel</folder>
+		<description>Bekijk de opbrengst van je zonnepanelen. Niet installeren als je ZonOpToon, via hardware hebt.</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>7</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>ToonWater</name>
+		<version>1.1.25</version>
+		<folder>toonWater</folder>
+		<description>Bekijk het waterverbruik op Toon (aparte sensor nodig).</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Domoticzboard</name>
+		<version>1.1.18</version>
+		<folder>domoticzboard</folder>
+		<description>App to control switches and scenes from Domoticz</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Slimme Stekker Programma</name>
+		<version>1.0.4</version>
+		<folder>plugSchedule</folder>
+		<description>Schakel slimme stekker aan of uit volgens programma (Zwave en Domoticz).</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Homey</name>
+		<version>1.0.36</version>
+		<folder>homey</folder>
+		<description>Bedien en lees je Homey op de Toon</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>OV</name>
+		<version>2.0.0</version>
+		<folder>ov</folder>
+		<description>Vernieuwde app. Geen trein data! Alleen bus, tram metro and veer</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>9.9.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>toonTemp</name>
+		<version>1.4.7</version>
+		<folder>toonTemp</folder>
+		<description>Bekijk externe temperatuur sensoren op Toon.</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>ThermostatPlusBasic</name>
+		<version>2.0.3</version>
+		<folder>thermostatPlusBasic</folder>
+		<description>Als ThermostatPlus niet meteen werkt gebruik dan tijdelijk thermostatPlusBasic zodat je Toon wordt voorbereid.</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>ThermostatPlus</name>
+		<version>3.0.0</version>
+		<folder>thermostatPlus</folder>
+		<description>Thermostaatfuncties met 1 of meer Toons en kachels. Programma aantal dagen instelbaar en web pagina beschikbaar.</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>7</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>SonosCloud</name>
+		<version>1.1.3</version>
+		<folder>cloudSonos</folder>
+		<description>Bedien je Sonos apparatuur vanaf toon zonder extra hardware.</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Game of Life</name>
+		<version>2.0.2</version>
+		<folder>life</folder>
+		<description>Conway's Game of Life.</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>8</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Rekenmachine</name>
+		<version>1.0.3</version>
+		<folder>calculator</folder>
+		<description>Rekenmachine voor de Toon.</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>1</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Bitcoin</name>
+		<version>1.0.5</version>
+		<folder>bitcoin</folder>
+		<description>Bekijk de actuele koers van cryptomunten.</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Kalender</name>
+		<version>1.1.16</version>
+		<folder>calendar</folder>
+		<description>Toon Google kalenders op Toon</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.30.04</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Doorcam</name>
+		<version>1.3.5</version>
+		<folder>doorcam</folder>
+		<description>Toont beelden voor de deurbel camera</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Buienradar</name>
+		<version>9.0.8</version>
+		<folder>buienradar</folder>
+		<description>Actueel weer en weersverwachting</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>6</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>EU Buienradar</name>
+		<version>1.0.3</version>
+		<folder>euBuienradar</folder>
+		<description>Actueel weer en weersverwachting Europese steden</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>TSC Klok</name>
+		<version>1.0.1</version>
+		<folder>tscClock</folder>
+		<description>Klok plus extra functies. In dim stand zelfde font en positie als de buienradar tegel</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>1</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Sonos sound system</name>
+		<version>1.2.10</version>
+		<folder>sonos</folder>
+		<description>Bedien je Sonos sound system met Toon (extern via Sonos-http-api)</description>
+		<author>harmen070, Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>6</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Zonneboiler Stats</name>
+		<version>0.1.0</version>
+		<folder>zonneboilerstats</folder>
+		<description>Toon gevevens van uw zonneboiler op Toon (via Raspberry Pi)</description>
+		<author>msx4ever</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>pumpSwitch</name>
 		<version>1.0.8</version>
+		<folder>pumpSwitch</folder>
+		<description>Schakel je vloerverwarmingspomp uit met een slimme stekker</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Newsreader</name>
+		<version>1.1.4</version>
+		<folder>newsreader</folder>
+		<description>Bekijk actuele nieuwsberichten</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>CountDown</name>
+		<version>1.1.1</version>
+		<folder>countDown</folder>
+		<description>Tel af naar/op vanaf ingestelde gebeurtenis</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Afvalkalender</name>
+		<version>5.5</version>
+		<folder>wastecollection</folder>
+		<description>Toont afval ophaaldagen van verschillende afval ophaalbedrijven</description>
+		<author>Toonz</author>
+		<skipautoupdate>yes</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>P2000</name>
+		<version>1.0.6</version>
+		<folder>p2000</folder>
+		<description>Toon P2000 meldingen</description>
+		<author>Oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Daikin</name>
+		<version>6.2.2</version>
+		<folder>daikin</folder>
+		<description>Bedien tot 4 Daikin airco's</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>11</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>PiHoleStats</name>
+		<version>0.1.13</version>
+		<folder>piholestats</folder>
+		<description>Shows PiHole stats on Toon</description>
+		<author>TerrorSource, Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Verkeersinformatie</name>
+		<version>2.0.5</version>
+		<folder>fileinfo</folder>
+		<description>Actuele verkeersinformatie, kan alleen worden geinstalleerd vanaf firmware 5</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Toon Games</name>
+		<version>1.1.2</version>
+		<folder>toonGames</folder>
+		<description>Diverse set of games</description>
+		<author>JackV</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>8</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>StookAlert</name>
+		<version>1.0.0</version>
+		<folder>stookalert</folder>
+		<description>Bekijk recente RIVM Stook alert meldingen</description>
+		<author>glsf91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>ToonBot</name>
+		<version>1.4.0</version>
+		<folder>toonbot</folder>
+		<description>Control Toon via e Telegram bot</description>
+		<author>glsf91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Onkyo en Pioneer Controller</name>
+		<version>1.1.2</version>
+		<folder>onkyocontroller</folder>
+		<description>Bedien je Onkyo versterker (extern via Domoticz)</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.30.04</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Temperatuurlogger</name>
+		<version>1.4.0</version>
+		<folder>temperaturelogger</folder>
+		<description>Scherm met de actuele temperatuur en de programmatemperatuur van de laatste 24 uur</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>1</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>WPB Controller</name>
+		<version>1.0.0</version>
+		<folder>wpbcontroller</folder>
+		<description>Bestuur uw WPB installatie</description>
+		<author>glsf91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Animaties</name>
+		<version>1.2.7</version>
+		<folder>animation</folder>
+		<description>Demo app om verschillende grappige animaties te tonen op Toon</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Doorcam</name>
+		<version>1.3.1</version>
+		<folder>doorcam</folder>
+		<description>Toont beelden voor de deurbel camera</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Volumio Controller</name>
+		<version>1.0.1</version>
+		<folder>volumiocontroller</folder>
+		<description>Bedien je Volumio versterker (extern via Domoticz)</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Twinkly</name>
+		<version>1.0.2</version>
+		<folder>twinkly</folder>
+		<description>Control Twinkly Christmas lights from Toon</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>HomeAssistant controller</name>
+		<version>1.0.8</version>
+		<folder>homeassistant</folder>
+		<description>home assistant controller interface</description>
+		<author>Luc_S</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>WifiQR</name>
+		<version>1.3</version>
+		<folder>wifiqr</folder>
+		<description>Geef gasten eenvoudig toegang tot uw Wifi netwerk via een QR code. Alleen voor firmware 5 en hoger</description>
+		<author>hvxl</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>2</screenshots>
+		<firmwareminimum>5.0.4</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>MySolar</name>
+		<version>1.0.5</version>
+		<folder>mysolar</folder>
+		<description>App shows live data from FP4ALL dataloggers for AEG Chint inverters</description>
+		<author>SDeath</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Webcam</name>
+		<version>1.0.5</version>
+		<folder>webcam</folder>
+		<description>Show webcam images from IP webcams</description>
+		<author>makkie2002</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>SpotEnergy</name>
+		<version>2.1.6</version>
+		<folder>spotenergy</folder>
+		<description>Bekijk actuele stroomprijzen</description>
+		<author>TheHogNL</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Boilerstatus</name>
+		<version>1.0.7</version>
 		<folder>boilerstatus</folder>
 		<description>Toont actuele CV ketel parameters</description>
 		<author>Toonz,Marcelr</author>
@@ -22,6 +607,58 @@
 		<screenshots>1</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Zappi</name>
+		<version>1.5.1</version>
+		<folder>zappi</folder>
+		<description>Bekijk en bedien uw myenergi Zappi EV laadpaal via de toon! U heeft wel een myenergi hub nodig die verbonden is aan uw zappi.</description>
+		<author>TheHogNL</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>iBood</name>
+		<version>1.2.1</version>
+		<folder>ibood</folder>
+		<description>App werkt niet meer. Niet beschikbaar voor nieuwe installaties, alleen verwijderen</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>5.0.00</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>PostNL</name>
+		<version>1.1.21</version>
+		<folder>postnl</folder>
+		<description>App werkt niet meer. Niet beschikbaar voor nieuwe installaties, alleen verwijderen</description>
+		<author>Toonz,glfs91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>5.0.0</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>NLAlert</name>
+		<version>1.3.2</version>
+		<folder>nlalert</folder>
+		<description>App werkt niet meer. Niet beschikbaar voor nieuwe installaties, alleen verwijderen</description>
+		<author>glsf91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>5.0.00</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
