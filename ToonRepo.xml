@@ -1,5 +1,18 @@
 <repository>
 	<app>
+		<name>Boilerstatus</name>
+		<version>1.0.8</version>
+		<folder>boilerstatus</folder>
+		<description>Toont actuele CV ketel parameters</description>
+		<author>Toonz,Marcelr</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>1</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>zwaveRepair</name>
 		<version>1.0.2</version>
 		<folder>zwaveRepair</folder>
