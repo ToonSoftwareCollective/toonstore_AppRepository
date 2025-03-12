@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>SonosCloud</name>
+		<version>1.1.4</version>
+		<folder>cloudSonos</folder>
+		<description>Bedien je Sonos apparatuur vanaf toon zonder extra hardware.</description>
+		<author>oepi-loepi</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Buienradar</name>
 		<version>9.0.9</version>
 		<folder>buienradar</folder>
@@ -165,19 +178,6 @@
 		<screenshots>7</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>SonosCloud</name>
-		<version>1.1.3</version>
-		<folder>cloudSonos</folder>
-		<description>Bedien je Sonos apparatuur vanaf toon zonder extra hardware.</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
