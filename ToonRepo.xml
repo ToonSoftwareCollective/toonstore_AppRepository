@@ -1,7 +1,7 @@
 <repository>
 	<app>
 		<name>Sonos sound system</name>
-		<version>1.3.2</version>
+		<version>1.3.3</version>
 		<folder>sonos</folder>
 		<description>Bedien je Sonos sound system met Toon (extern via Sonos-http-api)</description>
 		<author>harmen070, Toonz</author>
