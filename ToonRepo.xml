@@ -1,6 +1,6 @@
 <repository>
 	<app>
-		<name>Home Wizrad</name>
+		<name>Home Wizard</name>
 		<version>1.0.0</version>
 		<folder>toonHomeWizard</folder>
 		<description>Monitor and Control up to 8 HomeWizard Energy Sockets and 1 P1 Meter</description>
