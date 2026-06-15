@@ -1,12 +1,12 @@
 <repository>
 	<app>
 		<name>Home Wizard</name>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<folder>toonHomeWizard</folder>
-		<description>Monitor and Control up to 8 HomeWizard Energy Sockets and 1 P1 Meter</description>
+		<description>Monitor en bedien tot 8 HomeWizard Energy Sockets en 1 HomeWizard P1 Meter.</description>
 		<author>JackV</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>6</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
