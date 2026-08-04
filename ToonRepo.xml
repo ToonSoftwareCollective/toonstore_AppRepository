@@ -25,6 +25,19 @@
 		<toon2only>yes</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
+		<app>
+		<name>NLAlert</name>
+		<version>2.0.0</version>
+		<folder>nlalert</folder>
+		<description>Actuele NL-Alerts met postcodebereik, popup en statusicoon in de taakbalk.</description>
+		<author>NL-Alert contributors</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>2</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>yes</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
 	<app>
 		<name>Home Wizard</name>
 		<version>2.0.0</version>
@@ -673,19 +686,6 @@
 		<firmwareminimum>5.0.0</firmwareminimum>
 		<firmwaremaximum>5.0.0</firmwaremaximum>
 		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>NLAlert</name>
-		<version>2.0.0</version>
-		<folder>nlalert</folder>
-		<description>Actuele NL-Alerts met postcodebereik, popup en statusicoon in de taakbalk.</description>
-		<author>NL-Alert contributors</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>2</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>yes</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
 </repository>
