@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>Toon MQTT</name>
-		<version>1.2.3</version>
+		<version>1.2.4</version>
 		<folder>toonmqtt</folder>
 		<description>Lokale MQTT-koppeling met Home Assistant climate, Toon-bediening en injectie van elektriciteits- en gasmeterdata.</description>
 		<author>Toon MQTT contributors</author>
