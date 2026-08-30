@@ -42,7 +42,7 @@
 		<name>Bekendmakingen</name>
 		<version>0.1.4</version>
 		<folder>bekendmakingen</folder>
-		<description>Toon 2-tegel voor officiële overheidsbekendmakingen binnen een instelbare straal rond een exact Nederlands adres.</description>
+		<description>Officiële bekendmakingen rond je adres.</description>
 		<author>phoenix-blue</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
