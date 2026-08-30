@@ -16,8 +16,8 @@
 		<name>Toon MQTT</name>
 		<version>1.2.4</version>
 		<folder>toonmqtt</folder>
-		<description>Lokale MQTT-koppeling met Home Assistant climate, Toon-bediening en injectie van elektriciteits- en gasmeterdata.</description>
-		<author>Toon MQTT contributors</author>
+		<description>MQTT-koppeling voor Toon 2 met bediening en energie-injectie.</description>
+		<author>phoenix-blue</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
