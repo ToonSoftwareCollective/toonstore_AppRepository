@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>PostNL</name>
+		<version>1.2.0</version>
+		<folder>postnl</folder>
+		<description>Toont (te) ontvangen en verzenden pakketten via Postnl</description>
+		<author>Toonz,glfs91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Voetbalscores</name>
 		<version>1.1.7</version>
 		<folder>voetbal</folder>
@@ -685,19 +698,6 @@
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>5.0.00</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>PostNL</name>
-		<version>1.1.21</version>
-		<folder>postnl</folder>
-		<description>App werkt niet meer. Niet beschikbaar voor nieuwe installaties, alleen verwijderen</description>
-		<author>Toonz,glfs91</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.0</firmwareminimum>
-		<firmwaremaximum>5.0.0</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
