@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>PiHoleStats</name>
+		<version>0.2.0</version>
+		<folder>piholestats</folder>
+		<description>Shows PiHole stats on Toon</description>
+		<author>TerrorSource, Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>5</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>PostNL</name>
 		<version>1.2.0</version>
 		<folder>postnl</folder>
@@ -451,19 +464,6 @@
 		<screenshots>11</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>PiHoleStats</name>
-		<version>0.1.13</version>
-		<folder>piholestats</folder>
-		<description>Shows PiHole stats on Toon</description>
-		<author>TerrorSource, Toonz</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>5</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
