@@ -13,11 +13,37 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>PostNL</name>
+		<version>1.2.0</version>
+		<folder>postnl</folder>
+		<description>Toont (te) ontvangen en verzenden pakketten via Postnl</description>
+		<author>Toonz,glfs91</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.0</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Voetbalscores</name>
+		<version>1.1.7</version>
+		<folder>voetbal</folder>
+		<description>Laat voetbalscores zien (icm Animation app)</description>
+		<author>oepi-loepi, Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>4</screenshots>
+		<firmwareminimum>5.0.29</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
 		<name>Toon MQTT</name>
 		<version>1.2.4</version>
 		<folder>toonmqtt</folder>
-		<description>Lokale MQTT-koppeling met Home Assistant climate, Toon-bediening en injectie van elektriciteits- en gasmeterdata.</description>
-		<author>Toon MQTT contributors</author>
+		<description>MQTT-koppeling voor Toon 2 met bediening en energie-injectie.</description>
+		<author>phoenix-blue</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
@@ -31,6 +57,19 @@
 		<folder>nlalert</folder>
 		<description>Actuele NL-Alerts met postcodebereik, popup en statusicoon in de taakbalk.</description>
 		<author>NL-Alert contributors</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>yes</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>Bekendmakingen</name>
+		<version>0.1.4</version>
+		<folder>bekendmakingen</folder>
+		<description>Officiële bekendmakingen rond je adres.</description>
+		<author>phoenix-blue</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
@@ -111,19 +150,6 @@
 		<author>oepi-loepi, Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.29</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>Voetbalscores</name>
-		<version>1.1.6</version>
-		<folder>voetbal</folder>
-		<description>Laat voetbalscores zien (icm Animation app)</description>
-		<author>oepi-loepi</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>4</screenshots>
 		<firmwareminimum>5.0.29</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
@@ -625,7 +651,7 @@
 	</app>
 	<app>
 		<name>SpotEnergy</name>
-		<version>2.2.1</version>
+		<version>2.2.2</version>
 		<folder>spotenergy</folder>
 		<description>Bekijk actuele stroomprijzen</description>
 		<author>TheHogNL</author>
@@ -672,19 +698,6 @@
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>5.0.00</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>PostNL</name>
-		<version>1.1.21</version>
-		<folder>postnl</folder>
-		<description>App werkt niet meer. Niet beschikbaar voor nieuwe installaties, alleen verwijderen</description>
-		<author>Toonz,glfs91</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.0</firmwareminimum>
-		<firmwaremaximum>5.0.0</firmwaremaximum>
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
