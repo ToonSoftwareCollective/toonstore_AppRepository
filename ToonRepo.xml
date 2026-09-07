@@ -701,4 +701,17 @@
 		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
+	<app>
+		<name>Matter Bridge</name>
+		<version>0.2.1</version>
+		<folder>matterbridge</folder>
+		<description>Experimentele lokale Matter-bridge: deel de Toon-thermostaat, energie en ondersteunde ComfortHub-apparaten selectief met Google Home.</description>
+		<author>djvanleest</author>
+		<skipautoupdate>yes</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>yes</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
 </repository>
