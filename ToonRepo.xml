@@ -19,7 +19,7 @@
 		<description>Speel vier-op-een-rij tegen de Toon</description>
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>1</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
@@ -32,7 +32,7 @@
 		<description>Speel een potje schaken tegen de Toon</description>
 		<author>Toonz</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>1</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
 		<toon2only>no</toon2only>
