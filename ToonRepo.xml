@@ -92,7 +92,7 @@
 	</app>
 	<app>
 		<name>Toon MQTT</name>
-		<version>1.2.4</version>
+		<version>1.2.5</version>
 		<folder>toonmqtt</folder>
 		<description>MQTT-koppeling voor Toon 2 met bediening en energie-injectie.</description>
 		<author>phoenix-blue</author>
