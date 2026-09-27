@@ -740,4 +740,17 @@
 		<toon2only>yes</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
+	<app>
+		<name>Stralingsmonitor</name>
+		<version>0.4.1</version>
+		<folder>stralingsmonitor</folder>
+		<description>Actuele publieke stralingsmetingen in Nederland en België, zonder account of meetgeschiedenis.</description>
+		<author>phoenix-blue</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>3</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>yes</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
 </repository>
