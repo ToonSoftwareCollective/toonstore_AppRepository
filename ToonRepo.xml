@@ -16,7 +16,7 @@
 		<name>Boilerstatus</name>
 		<version>1.0.8</version>
 		<folder>boilerstatus</folder>
-		<description>Toont actuele CV ketel parameters</description>
+		<description><font color="red">Alleen voor firmware vanaf versie 5.0.0.</font></description>
 		<author>Toonz,Marcelr</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>1</screenshots>
