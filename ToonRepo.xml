@@ -1,11 +1,11 @@
 <repository>
 	<app>
 		<name>ToonStore</name>
-		<version>5.2.2</version> 
+		<version>5.2.3</version> 
 		<folder>toonstore</folder>
-		<description>App store voor Toon applicaties via github. LET OP:ALLEEN VOOR FIRMWARE 5</description>
+		<description>App store voor Toon applicaties via github. Let op: alleen voor firmware 5.x.x en hoger</description>
 		<author>Toonz, TheHogNL</author>
-		<skipautoupdate>yes</skipautoupdate>
+		<skipautoupdate>no</skipautoupdate>
 		<screenshots>5</screenshots>
 		<firmwareminimum>5.00.0</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
