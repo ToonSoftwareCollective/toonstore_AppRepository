@@ -53,7 +53,7 @@
 	</app>
 	<app>
 		<name>ReToon</name>
-		<version>1.0.5</version>
+		<version>1.0.6</version>
 		<folder>retoon</folder>
 		<description>Installeer ReToon</description>
 		<author>thehognl</author>
