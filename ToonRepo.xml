@@ -53,7 +53,7 @@
 	</app>
 	<app>
 		<name>ReToon</name>
-		<version>1.0.6</version>
+		<version>1.0.9</version>
 		<folder>retoon</folder>
 		<description>Installeer ReToon</description>
 		<author>thehognl</author>
@@ -61,7 +61,7 @@
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>yes</toon2only>
+		<toon2only>noe</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>	
 </repository>
