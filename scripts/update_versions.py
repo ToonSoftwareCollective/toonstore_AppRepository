@@ -4,7 +4,9 @@ Update ToonRepo.xml app versions to match each app's latest release.
 
 For every <app> entry in ToonRepo.xml, this looks up the corresponding
 ToonSoftwareCollective/<folder> repository, reads its version.txt at the
-repo's default branch, and updates <version> in place if it differs.
+repo's default branch, and updates <version> in place if it differs and a
+git tag with exactly that version name exists (the TSC install script on
+the Toon downloads the tarball of that tag).
 
 Only touches ToonRepo.xml on the branch it's run against (intended for
 `main`). The `test` and `dev` branches/manifests are maintained by hand
@@ -20,6 +22,7 @@ import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 
 ORG = "ToonSoftwareCollective"
@@ -76,6 +79,19 @@ def latest_version(folder):
     version = raw.strip()
     if not version:
         print(f"  [{folder}] version.txt is empty, skipping")
+        return None
+
+    # The TSC install script on the Toon downloads the app as the tarball of
+    # the git tag named exactly <version>; without that tag the install fails.
+    # Only publish versions that are actually tagged.
+    tag_ref = gh_request(
+        f"/repos/{ORG}/{folder}/git/ref/tags/{urllib.parse.quote(version, safe='')}"
+    )
+    if tag_ref is None:
+        print(
+            f"  [{folder}] version.txt says {version} but no tag "
+            f"'{version}' exists, skipping"
+        )
         return None
     return version
 
