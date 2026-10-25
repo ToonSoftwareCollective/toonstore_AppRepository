@@ -1,5 +1,18 @@
 <repository>
 	<app>
+		<name>Freetoon</name>
+		<version>1.0.0</version>
+		<folder>freetoon</folder>
+		<description>Installeer/Start een snelle nieuwe GUI die deze Eneco GUI vervangt!</description>
+		<author>Toonz</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>	
+	<app>
 		<name>Toon MQTT</name>
 		<version>1.2.3</version>
 		<folder>toonmqtt</folder>
