@@ -4,6 +4,9 @@ name: Update app versions
 # Only ever runs against `main` and only ever touches ToonRepo.xml there -
 # the `test` and `dev` branches are maintained by hand and are not part
 # of this workflow's checkout or trigger.
+# Changes go to one pull request from the branch auto/update-app-versions:
+# while that pull request is open, later runs update it instead of opening
+# another one.
 
 on:
   schedule:
@@ -20,12 +23,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: main
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.x"
 
@@ -47,13 +50,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          BRANCH="auto/update-app-versions-$(date +%Y%m%d-%H%M%S)"
+          BRANCH="auto/update-app-versions"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BRANCH"
           git add ToonRepo.xml
           git commit -m "Update app versions in ToonRepo.xml"
-          git push origin "$BRANCH"
+          # replaces what an earlier run left on the branch
+          git push --force origin "$BRANCH"
 
           BODY_FILE="${{ runner.temp }}/pr_body.txt"
           {
@@ -63,8 +67,14 @@ jobs:
             cat "${{ runner.temp }}/changes.txt"
           } > "$BODY_FILE"
 
-          gh pr create \
-            --base main \
-            --head "$BRANCH" \
-            --title "Update app versions in ToonRepo.xml" \
-            --body-file "$BODY_FILE"
+          OPEN=$(gh pr list --base main --head "$BRANCH" --state open --json number --jq '.[0].number')
+          if [ -n "$OPEN" ]; then
+            gh pr edit "$OPEN" --body-file "$BODY_FILE"
+            echo "Updated pull request #$OPEN"
+          else
+            gh pr create \
+              --base main \
+              --head "$BRANCH" \
+              --title "Update app versions in ToonRepo.xml" \
+              --body-file "$BODY_FILE"
+          fi

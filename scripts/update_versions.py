@@ -17,10 +17,12 @@ Preserves the file's existing formatting: only the text inside the
 is reformatted.
 """
 
+import base64
 import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -33,23 +35,43 @@ APP_BLOCK_RE = re.compile(r"<app>.*?</app>", re.S)
 NAME_RE = re.compile(r"<name>(.*?)</name>", re.S)
 VERSION_RE = re.compile(r"(<version>)(.*?)(</version>)", re.S)
 FOLDER_RE = re.compile(r"<folder>(.*?)</folder>", re.S)
+# What a version may look like: it goes into ToonRepo.xml as is, so no
+# characters that would break the XML.
+VALID_VERSION_RE = re.compile(r"^[0-9A-Za-z._-]+$")
+
+# A request that fails on the network (dropped connection, timeout, 5xx) is
+# tried this many times, waiting RETRY_WAIT seconds longer each time.
+ATTEMPTS = 3
+RETRY_WAIT = 5
 
 
 def gh_request(path):
-    """GET a GitHub API path, returning parsed JSON or None on 404."""
+    """GET a GitHub API path, returning parsed JSON or None on 404.
+    Network errors and server errors are retried; if all attempts fail
+    the last error is raised."""
     token = os.environ.get("GITHUB_TOKEN")
     req = urllib.request.Request(API_ROOT + path)
     req.add_header("Accept", "application/vnd.github+json")
     req.add_header("X-GitHub-Api-Version", "2022-11-28")
     if token:
         req.add_header("Authorization", f"Bearer {token}")
-    try:
-        with urllib.request.urlopen(req, timeout=20) as resp:
-            return json.loads(resp.read().decode("utf-8"))
-    except urllib.error.HTTPError as e:
-        if e.code == 404:
-            return None
-        raise
+    for attempt in range(1, ATTEMPTS + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                return None
+            if e.code < 500 or attempt == ATTEMPTS:
+                raise
+            error = e
+        except (urllib.error.URLError, OSError) as e:
+            # URLError, timeouts and RemoteDisconnected are all OSErrors
+            if attempt == ATTEMPTS:
+                raise
+            error = e
+        print(f"  {path}: {error}, trying again")
+        time.sleep(RETRY_WAIT * attempt)
 
 
 def latest_version(folder):
@@ -68,8 +90,6 @@ def latest_version(folder):
         print(f"  [{folder}] no version.txt on '{default_branch}', skipping")
         return None
 
-    import base64
-
     try:
         raw = base64.b64decode(contents["content"]).decode("utf-8")
     except Exception as e:  # pragma: no cover - defensive
@@ -79,6 +99,9 @@ def latest_version(folder):
     version = raw.strip()
     if not version:
         print(f"  [{folder}] version.txt is empty, skipping")
+        return None
+    if not VALID_VERSION_RE.match(version):
+        print(f"  [{folder}] version.txt holds {version!r}, not a version, skipping")
         return None
 
     # The TSC install script on the Toon downloads the app as the tarball of
@@ -101,6 +124,7 @@ def main():
         text = f.read()
 
     changes = []
+    failed = []
 
     def process_block(match):
         block = match.group(0)
@@ -115,7 +139,13 @@ def main():
         folder = folder_m.group(1).strip()
 
         print(f"Checking {name} ({folder})...")
-        new_version = latest_version(folder)
+        try:
+            new_version = latest_version(folder)
+        except Exception as e:
+            # one app that cannot be checked must not stop the others
+            print(f"  [{folder}] could not be checked: {e}, skipping")
+            failed.append(folder)
+            return block
         if new_version is None or new_version == current_version:
             return block
 
@@ -128,6 +158,10 @@ def main():
         return block[:start] + new_version + block[end:]
 
     new_text = APP_BLOCK_RE.sub(process_block, text)
+
+    if failed:
+        # a warning on the workflow run, so a skipped app gets noticed
+        print(f"\n::warning::Could not check: {', '.join(failed)}")
 
     if not changes:
         print("\nNo version changes.")
