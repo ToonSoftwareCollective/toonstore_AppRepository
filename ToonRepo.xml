@@ -169,19 +169,6 @@
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
-		<name>Home Wizard</name>
-		<version>1.0.1</version>
-		<folder>toonHomeWizard</folder>
-		<description>Monitor en bedien tot 8 HomeWizard Energy Sockets en 1 HomeWizard P1 Meter.</description>
-		<author>JackV</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>6</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.99.9</firmwaremaximum>
-		<toon2only>no</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
 		<name>SonosCloud</name>
 		<version>1.1.4</version>
 		<folder>cloudSonos</folder>
@@ -209,7 +196,7 @@
 	</app>
 	<app>
 		<name>Solar Panel</name>
-		<version>1.4.12</version>
+		<version>1.4.13</version>
 		<folder>solarPanel</folder>
 		<description>Bekijk de opbrengst van je zonnepanelen. Niet installeren als je ZonOpToon, via hardware hebt.</description>
 		<author>oepi-loepi</author>
@@ -495,7 +482,7 @@
 	</app>
 	<app>
 		<name>Verkeersinformatie</name>
-		<version>2.0.5</version>
+		<version>2.0.6</version>
 		<folder>fileinfo</folder>
 		<description>Actuele verkeersinformatie, kan alleen worden geinstalleerd vanaf firmware 5</description>
 		<author>Toonz</author>
@@ -677,7 +664,7 @@
 	</app>
 	<app>
 		<name>SpotEnergy</name>
-		<version>2.2.3</version>
+		<version>2.2.4</version>
 		<folder>spotenergy</folder>
 		<description>Bekijk actuele stroomprijzen</description>
 		<author>TheHogNL</author>
@@ -690,7 +677,7 @@
 	</app>
 	<app>
 		<name>Boilerstatus</name>
-		<version>1.0.7</version>
+		<version>1.0.8</version>
 		<folder>boilerstatus</folder>
 		<description>Toont actuele CV ketel parameters</description>
 		<author>Toonz,Marcelr</author>
