@@ -1,7 +1,7 @@
 <repository>
 	<app>
 		<name>Freetoon</name>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<folder>freetoon</folder>
 		<description>Installeer/Start een snelle nieuwe GUI die deze Eneco GUI vervangt!</description>
 		<author>Toonz</author>
