@@ -32,7 +32,7 @@
 		<description>Installeer deze als de meteradapter steeds plotseling verdwijnt</description>
 		<author>oepi-loepi</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>3</screenshots>
+		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>no</toon2only>
@@ -97,7 +97,7 @@
 		<description>Bedien MHI-airco's op Toon 2 via WF-RAC of ESPHome, met live kernwaarden en een optionele koelblokkering per airco bij CV-warmtevraag.</description>
 		<author>phoenix-blue</author>
 		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
+		<screenshots>3</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>yes</toon2only>
