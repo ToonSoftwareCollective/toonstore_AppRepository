@@ -90,4 +90,17 @@
 		<toon2only>yes</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>		
+	<app>
+		<name>MHI Airco</name>
+		<version>0.2.1</version>
+		<folder>mhi</folder>
+		<description>Bedien MHI-airco's op Toon 2 via WF-RAC of ESPHome, met live kernwaarden en een optionele koelblokkering per airco bij CV-warmtevraag.</description>
+		<author>phoenix-blue</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.99.9</firmwaremaximum>
+		<toon2only>yes</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
 </repository>
