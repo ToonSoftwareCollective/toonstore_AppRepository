@@ -13,6 +13,19 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
+		<name>Freetoon</name>
+		<version>1.0.3</version>
+		<folder>freetoon</folder>
+		<description>Installeer/Start een snelle nieuwe GUI die deze Eneco GUI vervangt!</description>
+		<author>Toonz, Ierlandfan</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>	
+	<app>
 		<name>Sonos sound system</name>
 		<version>1.3.5</version>
 		<folder>sonos</folder>
