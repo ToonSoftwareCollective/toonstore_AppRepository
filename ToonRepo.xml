@@ -22,7 +22,7 @@
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
+		<toon2only>yes</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>	
 	<app>
