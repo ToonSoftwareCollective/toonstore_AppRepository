@@ -753,4 +753,30 @@
 		<toon2only>yes</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
+	<app>
+		<name>ReToon</name>
+		<version>1.0.17</version>
+		<folder>retoon</folder>
+		<description>Installeer ReToon</description>
+		<author>thehognl</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>
+	<app>
+		<name>DoomToon</name>
+		<version>1.0.4</version>
+		<folder>doomtoon</folder>
+		<description>Stap in de wereld van Doom op je thermostaat!</description>
+		<author>thehognl</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>yes</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>			
 </repository>
