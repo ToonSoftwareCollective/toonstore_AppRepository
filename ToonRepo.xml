@@ -15,7 +15,7 @@
 	<app>
 		<name>Freetoon Setup</name>
 		<version>1.0.6</version>
-		<folder>Freetoon</folder>
+		<folder>freetoon</folder>
 		<description>Installeer/Start een snelle nieuwe GUI die deze Eneco GUI vervangt!</description>
 		<author>Toonz, Ierlandfan</author>
 		<skipautoupdate>no</skipautoupdate>
