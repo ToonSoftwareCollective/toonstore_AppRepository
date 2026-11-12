@@ -13,7 +13,7 @@
 		<allowdeletion>no</allowdeletion>
 	</app>
 	<app>
-		<name>Freetoon</name>
+		<name>Freetoon Setup</name>
 		<version>1.0.6</version>
 		<folder>freetoon</folder>
 		<description>Installeer/Start een snelle nieuwe GUI die deze Eneco GUI vervangt!</description>
