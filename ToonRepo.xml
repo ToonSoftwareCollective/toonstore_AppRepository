@@ -16,8 +16,21 @@
 		<name>Freetoon Setup</name>
 		<version>1.0.6</version>
 		<folder>freetoon</folder>
-		<description>Installeer/Start een snelle nieuwe GUI die deze Eneco GUI vervangt!</description>
+		<description>Installeer/Start een snelle nieuwe interface die de huidige Eneco GUI vervangt! De Eneco basis software zal blijven draaien.</description>
 		<author>Toonz, Ierlandfan</author>
+		<skipautoupdate>no</skipautoupdate>
+		<screenshots>0</screenshots>
+		<firmwareminimum>5.0.00</firmwareminimum>
+		<firmwaremaximum>9.9.99</firmwaremaximum>
+		<toon2only>no</toon2only>
+		<allowdeletion>yes</allowdeletion>
+	</app>	
+	<app>
+		<name>ReToon</name>
+		<version>1.0.17</version>
+		<folder>retoon</folder>
+		<description>Installeert ReToon. Als vervanging van de volledige Eneco software is ReToon een volledig Home Assistant companion display inclusief thread/zigbee, nieuwe sensoren, geluid etc.</description>
+		<author>thehognl</author>
 		<skipautoupdate>no</skipautoupdate>
 		<screenshots>0</screenshots>
 		<firmwareminimum>5.0.00</firmwareminimum>
@@ -751,19 +764,6 @@
 		<firmwareminimum>5.0.00</firmwareminimum>
 		<firmwaremaximum>9.99.9</firmwaremaximum>
 		<toon2only>yes</toon2only>
-		<allowdeletion>yes</allowdeletion>
-	</app>
-	<app>
-		<name>ReToon</name>
-		<version>1.0.17</version>
-		<folder>retoon</folder>
-		<description>Installeer ReToon</description>
-		<author>thehognl</author>
-		<skipautoupdate>no</skipautoupdate>
-		<screenshots>0</screenshots>
-		<firmwareminimum>5.0.00</firmwareminimum>
-		<firmwaremaximum>9.9.99</firmwaremaximum>
-		<toon2only>no</toon2only>
 		<allowdeletion>yes</allowdeletion>
 	</app>
 	<app>
