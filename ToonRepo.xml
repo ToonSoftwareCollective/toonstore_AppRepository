@@ -27,7 +27,7 @@
 	</app>	
 	<app>
 		<name>ReToon</name>
-		<version>1.0.17</version>
+		<version>1.0.18</version>
 		<folder>retoon</folder>
 		<description>Installeert ReToon. Als vervanging van de volledige Eneco software is ReToon een volledig Home Assistant companion display inclusief thread/zigbee, nieuwe sensoren, geluid etc.</description>
 		<author>thehognl</author>
