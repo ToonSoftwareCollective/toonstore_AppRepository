@@ -14,7 +14,7 @@
 	</app>
 	<app>
 		<name>Freetoon Setup</name>
-		<version>1.0.6</version>
+		<version>1.0.7</version>
 		<folder>freetoon</folder>
 		<description>Installeer/Start een snelle nieuwe interface die de huidige Eneco GUI vervangt! De Eneco basis software zal blijven draaien.</description>
 		<author>Toonz, Ierlandfan</author>
